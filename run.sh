@@ -10,6 +10,11 @@ read -r solver_name solver_call solver_args < <(
 
 solver_name=$(jq -r '. | to_entries[0].value.name' "$solver_file")
 solver_call=$(jq -r '. | to_entries[0].value.call' "$solver_file")
+
+if [[ $solver_call != */* ]]; then
+  solver_call="./$solver_call"
+fi
+
 mapfile -t solver_args < <(
     jq -r '. | to_entries[0].value.args[]' "$solver_file"
 )
