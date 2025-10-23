@@ -1,6 +1,6 @@
 # Archive of SAT heritage solver binaries
 
-*This repository archives binaries (i.e., executable files) for all SAT solvers included in the SAT heritage initiative.*
+*This repository archives binaries (i.e., executable files) for all SAT solvers included in the [SAT heritage](https://github.com/sat-heritage/docker-images) initiative.*
 
 **Last updated**: 2025-10-23
 
