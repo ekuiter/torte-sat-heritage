@@ -1,0 +1,1 @@
+{"spear": {"name": "Spear", "version": "2007-02-12", "authors": "Domagoj Babic", "args": ["--model-stdout", "--time", "--dimacs", "FILECNF"], "call": "./Spear-32", "gz": false, "status": "ok"}}

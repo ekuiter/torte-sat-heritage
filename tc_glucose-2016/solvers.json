@@ -1,0 +1,1 @@
+{"tc_glucose": {"status": "ok", "name": "tc_glucose", "call": "./tc_glucose", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-vbyte", "-certified", "-certified-output=FILEPROOF"]}}

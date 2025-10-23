@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mono "$(dirname "$0")"/sol_main/Sol/Main.exe "$1"

@@ -1,0 +1,1 @@
+{"dimetheusmps": {"tracks": ["random-sat"], "status": "ok", "args": ["-formula", "FILECNF", "-seed", "RANDOMSEED", "-guide", "5"], "authors": "Oliver Gableske", "call": "././DimetheusMPS", "comments": "Launchcommand was:  ././DimetheusMPS -formula <instance>  -seed <seed>  -guide 5\nTrack was Core solvers, Sequential, Random SAT", "gz": false, "name": "DimetheusMPS"}}

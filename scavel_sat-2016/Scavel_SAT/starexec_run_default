@@ -1,0 +1,2 @@
+#!/bin/sh
+./Scavel_SAT -vbyte $1 $2

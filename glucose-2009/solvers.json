@@ -1,0 +1,1 @@
+{"glucose": {"name": "glucose", "version": "1.0", "authors": "Gilles Audemard and Laurent Simon", "args": ["FILECNF"], "call": "glucose.sh", "gz": false, "status": "ok"}}

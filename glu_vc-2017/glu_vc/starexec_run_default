@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./glu_vc -model -verb=0 $1 -certified -certified-output=$2/proof.out

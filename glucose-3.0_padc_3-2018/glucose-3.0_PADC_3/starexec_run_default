@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./glucose-3.0_PADC_static -model -nbIncRedDB=3 -certified -certified-output=$2/proof.out  $1

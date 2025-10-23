@@ -1,0 +1,1 @@
+{"rseq": {"tracks": ["application"], "status": "ok", "args": ["FILECNF", "-s", "RANDOMSEED"], "authors": "Djamal Habet and Chu Min Li and Jiang Hua ", "call": "././RSeq.sh", "comments": "Launchcommand was:  ././RSeq.sh  <instance>  -s <seed>   \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": false, "name": "RSeq"}}

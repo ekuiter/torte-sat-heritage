@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./cryptominisat4_simple $1 --drat=$2/proof.out --reconf=100

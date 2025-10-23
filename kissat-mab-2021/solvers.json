@@ -1,0 +1,1 @@
+{"kissat-mab": {"status": "ok", "name": "kissat-MAB", "call": "./kissat", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

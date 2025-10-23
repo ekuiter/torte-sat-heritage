@@ -1,0 +1,2 @@
+#!/bin/bash
+./glucose -model -certified -certified-output=$2/proof.out  $1 

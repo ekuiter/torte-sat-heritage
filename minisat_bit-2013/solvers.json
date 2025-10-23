@@ -1,0 +1,1 @@
+{"minisat_bit": {"tracks": ["minisat-hack"], "status": "ok", "args": ["FILECNF"], "authors": "Jingchao Chen", "call": "././minisat_bit", "comments": "Launchcommand was:  ././minisat_bit  <instance> \nTrack was Core solvers, Sequential, MiniSAT Hack-track, Application SAT+UNSAT", "gz": true, "name": "minisat_bit"}}

@@ -1,0 +1,1 @@
+{"maple_cm_orduip": {"status": "ok", "name": "Maple_CM_ordUIP", "call": "./glucose_static", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

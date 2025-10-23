@@ -1,0 +1,1 @@
+{"rsat": {"name": "Rsat", "version": "2007-02-08", "authors": "Knot Pipatsrisawat and Adnan Darwiche", "args": ["FILECNF", "/tmp/tmpfile"], "call": "./rsat.sh", "gz": false, "status": "ok"}}

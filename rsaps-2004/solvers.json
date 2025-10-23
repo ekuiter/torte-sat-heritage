@@ -1,0 +1,1 @@
+{"rsaps": {"status": "ok", "name": "rsaps", "call": "./rsaps", "gz": false, "args": ["FILECNF", "RANDOMSEED"]}}

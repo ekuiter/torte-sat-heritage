@@ -1,0 +1,1 @@
+{"treengeling": {"tracks": ["parallel"], "status": "ok", "args": ["FILECNF"], "authors": "Armin Biere", "call": "./treengeling", "comments": "Launchcommand was:  ./treengeling  <instance> \nTrack was Parallel, Application SAT+UNSAT track", "gz": true, "name": "Treengeling"}}

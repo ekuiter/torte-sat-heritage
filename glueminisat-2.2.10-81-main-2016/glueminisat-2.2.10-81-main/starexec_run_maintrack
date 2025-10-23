@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./glueminisat-simp-static -no-lazy-simp -certified -vbyte -certified-output=$2/proof.out -model $1

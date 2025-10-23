@@ -1,0 +1,1 @@
+{"mergesat": {"status": "ok", "name": "MergeSAT", "call": "./mergesat", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

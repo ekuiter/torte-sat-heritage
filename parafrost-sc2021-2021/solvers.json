@@ -1,0 +1,1 @@
+{"parafrost-sc2021": {"status": "ok", "name": "parafrost-sc2021", "call": "./release/parafrost", "tracks": ["main"], "gz": false, "args": ["FILECNF"], "argsproof": ["FILECNF", "--proofout=FILEPROOF"]}}

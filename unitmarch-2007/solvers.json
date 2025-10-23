@@ -1,0 +1,1 @@
+{"unitmarch": {"name": "UnitMarch", "version": "2007-02-08", "authors": "Marijn Heule, Denis de Leeuw Duarte and Hans van Maaren", "args": ["FILECNF"], "call": "./UnitMarch_32_bits", "gz": false, "status": "ok"}}

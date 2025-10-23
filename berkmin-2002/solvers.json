@@ -1,0 +1,1 @@
+{"berkmin": {"status": "ok", "name": "berkmin", "call": "./berkmin", "gz": false, "args": ["FILECNF"], "comment": "Warning, this version had an identifed (simple) bug. See http://www.satcompetition.org/2002/berkmin.html"}}

@@ -1,0 +1,5 @@
+#define VERSION "1.4.0"
+#define IDENTIFIER "a22cc5339bd0aba79a17e598f05e54a331be80a7"
+#define COMPILER "g++ (Debian 8.3.0-6) 8.3.0"
+#define FLAGS "-Wall -Wextra -O3 -DNDEBUG"
+#define DATE "Thu Aug 19 16:46:52 UTC 2021 Linux fe38eff65af6 5.8.0-1039-azure x86_64"

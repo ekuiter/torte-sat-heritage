@@ -1,0 +1,5 @@
+#define VERSION "sc2021"
+#define IDENTIFIER "be1e98158caf6437ac5cc83846a90cb912d57804"
+#define COMPILER "g++ (Debian 8.3.0-6) 8.3.0"
+#define FLAGS "-Wall -Wextra -O3 -DNDEBUG"
+#define DATE "Thu Aug 19 16:42:59 UTC 2021 Linux a3288c61f4ed 5.8.0-1039-azure x86_64"

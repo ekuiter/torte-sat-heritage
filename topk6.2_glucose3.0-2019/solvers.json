@@ -1,0 +1,1 @@
+{"topk6.2_glucose3.0": {"status": "ok", "name": "Topk6.2_Glucose3.0", "call": "./topkLC-glucose", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-certified", "-certified-output=FILEPROOF"]}}

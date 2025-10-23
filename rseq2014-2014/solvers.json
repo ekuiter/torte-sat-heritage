@@ -1,0 +1,1 @@
+{"rseq2014": {"status": "ok", "args": ["FILECNF", "-s", "RANDOMSEED", "1200"], "authors": "Chu Min Li and Djamal Habet", "call": ".///RSeq2014.sh", "comments": "Launchcommand was:  .///RSeq2014.sh  <instance>  -s <seed>  1200\nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "RSeq2014"}}

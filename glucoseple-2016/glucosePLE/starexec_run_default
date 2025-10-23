@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Run glucosePLE
+
+if [ "x$1" = "x" ]; then
+  echo "USAGE: starexec_run_default <input cnFile> <output prooFolder>"
+  exit 1
+fi
+
+if [ "x$2" = "x" ]; then
+  ./glucosePLE -model $1
+  exit 0
+fi
+
+./glucosePLE -model -certified -certified-output=$2/proof.out $1
+exit 0

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./MapleLCMDistChrBt-DL-v2.2 $1 -drup-file=$2/proof.out 

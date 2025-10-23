@@ -1,0 +1,1 @@
+{"maplecomsps_lrb_vsids_2": {"status": "ok", "name": "MapleCOMSPS_LRB_VSIDS_2", "call": "./MapleCOMSPS_LRB_VSIDS_2", "tracks": ["main"], "gz": true, "args": ["FILECNF", "-act-init=1", "-pol-init=1"], "argsproof": ["FILECNF", "-act-init=1", "-pol-init=1", "-drup-file=FILEPROOF"]}}

@@ -1,0 +1,1 @@
+{"sparrowtoriss": {"status": "ok", "args": ["FILECNF", "RANDOMSEED", "/tmp"], "authors": "Adrian Balint, Norbert Manthey", "call": "././SparrowToRiss.sh", "comments": "Launchcommand was:  ././SparrowToRiss.sh  <instance>   <seed>   <tempdir> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "SparrowToRiss"}}

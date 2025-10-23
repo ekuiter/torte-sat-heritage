@@ -1,0 +1,1 @@
+{"syrup": {"tracks": ["parallel"], "status": "ok", "name": "syrup", "call": "./glucose-syrup", "gz": true, "args": ["FILECNF"]}}

@@ -1,0 +1,1 @@
+{"sapsnr": {"status": "ok", "name": "sapsnr", "call": "./sapsnr", "gz": false, "args": ["FILECNF", "RANDOMSEED"]}}

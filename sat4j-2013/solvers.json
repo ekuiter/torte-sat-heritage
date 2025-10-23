@@ -1,0 +1,1 @@
+{"sat4j": {"status": "ok", "args": ["-Xms5g", "-Xmx5g", "-jar", ".//sat4j2013.jar", "FILECNF"], "authors": "Daniel Le Berre", "call": "java", "comments": "Launchcommand was: java -Xms5g -Xmx5g -jar .//sat4j2013.jar  <instance> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "SAT4J"}}

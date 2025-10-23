@@ -1,0 +1,1 @@
+{"gluebit_lgl": {"status": "ok", "args": ["FILECNF"], "authors": "Jingchao Chen", "call": "././gluebit_lgl", "comments": "Launchcommand was:  ././gluebit_lgl  <instance> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "gluebit_lgl"}}

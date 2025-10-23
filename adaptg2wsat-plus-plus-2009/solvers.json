@@ -1,0 +1,1 @@
+{"adaptg2wsat-plus-plus": {"name": "adaptg2wsat2009++", "version": "2009-03-23", "authors": "chuMin Li, Wanxia Wei", "args": ["FILECNF", "RANDOMSEED"], "call": "./adaptg2wsat2009++", "gz": false, "status": "ok"}}

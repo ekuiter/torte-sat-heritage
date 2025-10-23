@@ -1,0 +1,1 @@
+{"glucose_btl": {"status": "ok", "name": "glucose_BTL", "call": "./glucose_lbdbtl", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-vbyte", "-certified", "-certified-output=FILEPROOF"]}}

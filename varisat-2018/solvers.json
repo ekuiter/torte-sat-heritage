@@ -1,0 +1,1 @@
+{"varisat": {"status": "ok", "name": "varisat", "call": "./varisat", "gz": true, "args": ["FILECNF"], "argsproof": ["-p FILEPROOF", "FILECNF"]}}

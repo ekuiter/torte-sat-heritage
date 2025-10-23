@@ -1,0 +1,1 @@
+{"gnovelty-gca": {"tracks": ["hard-combinatorial", "random"], "status": "ok", "args": ["FILECNF", "RANDOMSEED"], "authors": "Thach-Thao Duong, Duc Nghia Pham", "call": "././gNovelty+GCa", "comments": "Launchcommand was:  ././gNovelty+GCa  <instance>   <seed> \nTrack was Core solvers, Sequential, Hard-combinatorial SAT", "gz": false, "name": "gNovelty+GCa"}}

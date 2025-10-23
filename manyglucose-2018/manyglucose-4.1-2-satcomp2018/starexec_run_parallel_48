@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./manyglucose-4.1-2_release -nthreads=48 -model -maxmemory=50000 $1

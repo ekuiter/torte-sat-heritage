@@ -1,0 +1,1 @@
+{"march_br-unsat": {"tracks": ["random-cert-unsat"], "status": "ok", "args": ["FILECNF"], "authors": "Marijn Heule", "call": "././march_br", "comments": "Launchcommand was:  ././march_br  <instance> \nTrack was Core solvers, Sequential, Random certified UNSAT", "gz": false, "name": "march_br"}}

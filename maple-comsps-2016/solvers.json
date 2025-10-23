@@ -1,0 +1,1 @@
+{"maple-comsps": {"status": "ok", "name": "MapleCOMSPS_DRUP", "call": "./MapleCOMSPS", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

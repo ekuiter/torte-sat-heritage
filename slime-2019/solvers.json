@@ -1,0 +1,1 @@
+{"slime": {"status": "ok", "name": "SLIME", "call": "./slime_static", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

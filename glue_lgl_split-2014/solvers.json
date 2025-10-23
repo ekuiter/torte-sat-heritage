@@ -1,0 +1,1 @@
+{"glue_lgl_split": {"status": "ok", "args": ["FILECNF"], "authors": "Jingchao Chen", "call": "././glue_lgl_split", "comments": "Launchcommand was:  ././glue_lgl_split  <instance> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "glue_lgl_split"}}

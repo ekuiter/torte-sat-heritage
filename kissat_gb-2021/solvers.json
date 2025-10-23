@@ -1,0 +1,1 @@
+{"kissat_gb": {"status": "ok", "name": "kissat_gb", "call": "./kissat", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

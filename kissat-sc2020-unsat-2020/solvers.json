@@ -1,0 +1,1 @@
+{"kissat-sc2020-unsat": {"status": "ok", "name": "Kissat-sc2020-unsat", "call": "./kissat", "tracks": ["main"], "gz": true, "args": ["FILECNF", "--unsat"], "argsproof": ["FILECNF", "--unsat", "FILEPROOF"]}}

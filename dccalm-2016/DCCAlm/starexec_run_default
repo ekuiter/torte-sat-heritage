@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./DCCAlm $1 1

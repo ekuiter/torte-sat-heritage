@@ -1,0 +1,1 @@
+{"riss7.1": {"status": "ok", "name": "Riss7.1", "call": "./riss", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-config=plain_BVE:BVEEARLY:plain_ABVA", "-proofFormat=DRAT", "-proof=FILEPROOF"]}}

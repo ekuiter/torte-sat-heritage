@@ -1,0 +1,1 @@
+{"cadical_scavel01": {"status": "ok", "name": "Cadical_SCAVEL01", "call": "./cadical", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

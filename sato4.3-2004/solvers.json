@@ -1,0 +1,1 @@
+{"sato4.3": {"status": "ok", "comment": "segfault on medium-size instances (e.g., aim-200-1_6-yes1-1)", "name": "sato4.3", "call": "./sato4.3", "gz": false, "args": ["FILECNF"]}}

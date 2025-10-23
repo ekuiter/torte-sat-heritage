@@ -1,0 +1,1 @@
+{"abcdsat_drup": {"tracks": ["main"], "status": "ok", "name": "abcdSAT_drup", "call": "./abcdsat_drup", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-certified", "-certified-output=FILEPROOF"]}}

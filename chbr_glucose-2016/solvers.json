@@ -1,0 +1,1 @@
+{"chbr_glucose": {"status": "ok", "name": "CHBR_glucose", "call": "./CHBR_glucose", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-vbyte", "-certified", "-certified-output=FILEPROOF"]}}

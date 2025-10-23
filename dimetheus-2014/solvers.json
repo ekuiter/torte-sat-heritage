@@ -1,0 +1,1 @@
+{"dimetheus": {"status": "ok", "tracks": ["random"], "args": ["-formula", "FILECNF", "-seed", "RANDOMSEED", "-classifyInputDomain", "10"], "authors": "Oliver Gableske", "call": "././dimetheus", "comments": "Launchcommand was:  ././dimetheus -formula <instance>  -seed <seed>  -classifyInputDomain 10\nTrack was Sequential, Random SAT track", "gz": false, "name": "dimetheus"}}

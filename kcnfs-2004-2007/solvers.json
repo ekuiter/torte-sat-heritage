@@ -1,0 +1,1 @@
+{"kcnfs-2004": {"name": "KCNFS", "version": "2004", "authors": "Gilles Dequen and Olivier Dubois", "args": ["FILECNF"], "call": "./kcnfs-2004", "gz": false, "status": "ok", "comment": "compiled with gcc-3.0 with original options except the unsupported -m32 (with more recent gcc, -O3 leads to segmentation fault)"}}

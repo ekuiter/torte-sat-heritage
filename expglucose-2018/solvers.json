@@ -1,0 +1,1 @@
+{"expglucose": {"status": "ok", "name": "expGlucose", "call": "./glucose_static", "gz": true, "args": ["FILECNF", "-no-certified"], "argsproof": ["FILECNF", "-vbyte", "-drup-file=FILEPROOF"]}}

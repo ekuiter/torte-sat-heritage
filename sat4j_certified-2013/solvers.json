@@ -1,0 +1,1 @@
+{"sat4j_certified": {"tracks": ["hard-combinatorial-cert-unsat", "application-cert-unsat"], "status": "ok", "args": ["/tmp", "FILECNF"], "authors": "Daniel Le Berre", "call": "././unsatproof.sh", "comments": "Launchcommand was:  ././unsatproof.sh  <tempdir>   <instance> \nTrack was Core solvers, Sequential, Application certified UNSAT", "gz": true, "name": "SAT4J Certified"}}

@@ -1,0 +1,1 @@
+{"precosat": {"name": "precosat", "version": "236", "authors": "Armin Biere", "args": ["FILECNF"], "call": "./precosat", "gz": false, "status": "ok"}}

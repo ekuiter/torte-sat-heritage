@@ -1,0 +1,5 @@
+#define VERSION "1.0.3"
+#define COMPILER "gcc (Debian 8.3.0-6) 8.3.0 -W -Wall -O3 -DNEMBEDDED -DNDEBUG -DNMETRICS -DNSTATISTICS"
+#define ID "79d8d8f20465e71fd2b0f193b468898cd803a59a"
+#define BUILD "Fri Aug 20 13:58:37 UTC 2021 Linux ebb68d4b9bec 5.8.0-1039-azure x86_64"
+#define DIR "/src/kissat-1.0.3-79d8d8f2/build"

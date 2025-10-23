@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./glucose_static $1 -verb=0 -use-padc -no-use-psids -use-dl -use-ovau -exponent -update-vsids -nbIncRedDB=5 -clearType=0 -drup-file=$2/proof.out

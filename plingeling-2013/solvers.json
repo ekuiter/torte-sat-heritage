@@ -1,0 +1,1 @@
+{"plingeling": {"tracks": ["parallel"], "status": "ok", "args": ["FILECNF"], "authors": "Armin Biere", "call": "./plingeling", "comments": "Launchcommand was:  ./plingeling  <instance> \nTrack was Core Solvers, Parallel, Application SAT+UNSAT", "gz": true, "name": "Plingeling"}}

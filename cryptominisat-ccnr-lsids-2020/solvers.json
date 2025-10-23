@@ -1,0 +1,1 @@
+{"cryptominisat-ccnr-lsids": {"status": "ok", "name": "cryptominisat-ccnr-lsids", "call": "./cryptominisat5_simple", "tracks": ["main"], "gz": false, "args": ["--verb=0", "--chronophasen=2", "--sls=ccnr", "FILECNF"], "argsproof": ["--verb=0", "--chronophasen=2", "--sls=ccnr", "--drat=FILEPROOF", "FILECNF"]}}

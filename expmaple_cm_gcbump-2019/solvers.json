@@ -1,0 +1,1 @@
+{"expmaple_cm_gcbump": {"status": "ok", "name": "expMaple_CM_GCBump", "call": "./glucose_static", "gz": true, "args": ["FILECNF", "-no-drup"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

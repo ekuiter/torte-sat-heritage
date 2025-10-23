@@ -1,0 +1,1 @@
+{"penelope": {"tracks": ["parallel"], "status": "ok", "args": ["FILECNF"], "authors": "Audemard-Hoessen-Jabbour-Lagniez-Piette", "call": ".//solver.sh", "comments": "Launchcommand was:  .//solver.sh  <instance> \nTrack was Parallel, Application SAT+UNSAT track", "gz": true, "name": "PeneLoPe"}}

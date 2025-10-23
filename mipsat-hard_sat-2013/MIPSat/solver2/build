@@ -1,0 +1,11 @@
+#!/bin/sh
+
+cd "$(dirname "$0")"
+ROOT=$PWD
+
+# sol
+rm -rf $ROOT/sol_main
+tar xzvf $ROOT/sol_main.tgz
+cd $ROOT/sol_main/Sol
+mcs ./Program/Main.cs ./Program/*.cs ./CNF/*.cs ./General/*.cs ./Mapper/*.cs ./Morpher/*.cs ./Properties/*.cs ./Solver/*.cs
+cp ./Program/Main.exe .

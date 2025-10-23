@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./parafrost $1 --proof-file=$2/proof.out -q 

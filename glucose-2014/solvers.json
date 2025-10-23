@@ -1,0 +1,1 @@
+{"glucose": {"status": "ok", "args": ["FILECNF"], "authors": "Gilles Audemard and Laurent Simon", "call": "././glucose", "comments": "Launchcommand was:  ././glucose  <instance> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "glucose"}}

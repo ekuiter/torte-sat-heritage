@@ -1,0 +1,1 @@
+{"glucoseple": {"status": "ok", "name": "glucosePLE", "call": "./glucosePLE", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-certified", "-certified-output=FILEPROOF"]}}

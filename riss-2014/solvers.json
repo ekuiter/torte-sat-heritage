@@ -1,0 +1,1 @@
+{"riss": {"status": "ok", "args": ["FILECNF", "/tmp"], "authors": "Norbert Manthey", "call": "././Riss427DRAT.sh", "comments": "Launchcommand was:  ././Riss427DRAT.sh  <instance>   <tempdir> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "Riss"}}

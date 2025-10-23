@@ -1,0 +1,1 @@
+{"minilearning.jar": {"status": "ok", "name": "minilearning.jar", "call": "java", "gz": false, "args": ["-Xms5g", "-Xmx5g", "-jar", "minilearning.jar", "FILECNF"]}}

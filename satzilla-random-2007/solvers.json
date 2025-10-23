@@ -1,0 +1,1 @@
+{"satzilla-random": {"name": "SATzilla", "version": "RANDOM", "authors": "Lin Xu, Frank Hutter, Holger H. Hoos and Kevin Leyton-Brown", "args": ["FILECNF", "RANDOMSEED"], "call": "./SATzilla2007_R", "gz": false, "status": "ok"}}

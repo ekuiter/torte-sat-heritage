@@ -1,0 +1,1 @@
+{"cadical-sc17-agile-proof": {"status": "ok", "name": "cadical-sc17-agile-proof", "call": "./cadical", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

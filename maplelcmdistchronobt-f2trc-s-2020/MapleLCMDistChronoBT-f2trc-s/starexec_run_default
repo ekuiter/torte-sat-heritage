@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./MLDCBT-f2trc-s $1 -drup-file=$2/proof.out 

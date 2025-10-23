@@ -1,0 +1,1 @@
+{"slime": {"status": "ok", "name": "SLIME", "call": "./slime", "tracks": ["main"], "gz": false, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

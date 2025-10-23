@@ -1,0 +1,1 @@
+{"ntusatbreak": {"status": "ok", "args": ["FILECNF", "/tmp"], "authors": "Hsiao-Lun, Wang and J-H Roland, Jiang", "call": "././runBreakIDntusat.sh", "comments": "Launchcommand was:  ././runBreakIDntusat.sh  <instance>   <tempdir> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "ntusatbreak"}}

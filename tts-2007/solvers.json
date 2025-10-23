@@ -1,0 +1,1 @@
+{"tts": {"name": "TTS", "version": "4.0", "authors": "Ivor Spence", "args": ["FILECNF"], "call": "./tts-4-0", "gz": false, "status": "ok"}}

@@ -1,0 +1,1 @@
+{"maplecomsps_lrb_drup": {"status": "ok", "name": "MapleCOMSPS_LRB_DRUP", "call": "./MapleCOMSPS_LRB", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

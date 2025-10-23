@@ -1,0 +1,1 @@
+{"cmusat": {"name": "CMUSAT", "version": "2007-02-08", "authors": "Himanshu Jain and Edmund Clarke", "args": ["FILECNF"], "call": "./cmusat", "gz": false, "status": "ok"}}

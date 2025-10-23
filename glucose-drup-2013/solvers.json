@@ -1,0 +1,1 @@
+{"glucose-drup": {"tracks": ["hard-combinatorial-cert-unsat", "application-cert-unsat"], "status": "ok", "args": ["FILECNF"], "authors": "Gilles Audemard and Laurent Simon", "call": "././glucose", "comments": "Launchcommand was:  ././glucose  <instance> \nTrack was Core solvers, Sequential, Hard-combinatorial certified UNSAT", "gz": true, "name": "glucose"}}

@@ -1,0 +1,1 @@
+{"duriansat": {"status": "ok", "name": "DurianSat", "call": "./duriansat", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

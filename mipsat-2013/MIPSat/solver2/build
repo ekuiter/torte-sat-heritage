@@ -1,0 +1,10 @@
+#!/bin/sh
+
+cd "$(dirname "$0")"
+ROOT=$PWD
+
+# glucose 2
+rm -rf $ROOT/glucose_2.0
+tar xzvf $ROOT/glucose2.tgz
+cd $ROOT/glucose_2.0
+./build.sh

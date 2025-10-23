@@ -1,0 +1,1 @@
+{"inidglucose": {"status": "ok", "name": "inIDGlucose", "call": "./glucose_static", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-vbyte", "-certified", "-certified-output=FILEPROOF"]}}

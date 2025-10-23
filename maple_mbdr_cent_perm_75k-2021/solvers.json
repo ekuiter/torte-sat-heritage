@@ -1,0 +1,1 @@
+{"maple_mbdr_cent_perm_75k": {"status": "ok", "name": "Maple_MBDR_Cent_PERM_75K", "call": "./glucose", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

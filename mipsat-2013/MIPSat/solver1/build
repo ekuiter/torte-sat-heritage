@@ -1,0 +1,12 @@
+#!/bin/sh
+
+cd "$(dirname "$0")"
+ROOT=$PWD
+
+# cryptominisat
+rm -rf $ROOT/cryptominisat-cryptominisat-2.9.6
+tar xzvf $ROOT/cryptominisat-cryptominisat-2.9.6.tgz
+cd $ROOT/cryptominisat-cryptominisat-2.9.6
+make -f Makefile.cvs
+./configure
+make

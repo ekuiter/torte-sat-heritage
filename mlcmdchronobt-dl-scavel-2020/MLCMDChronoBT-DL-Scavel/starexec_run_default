@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./MLCMDCBT-DL-v2.2_Scavel $1 -drup-file=$2/proof.out 

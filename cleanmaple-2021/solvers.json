@@ -1,0 +1,1 @@
+{"cleanmaple": {"status": "ok", "name": "CleanMaple", "call": "./cleanmaple", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

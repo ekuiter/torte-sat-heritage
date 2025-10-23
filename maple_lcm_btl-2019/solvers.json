@@ -1,0 +1,1 @@
+{"maple_lcm_btl": {"status": "ok", "name": "Maple_LCM_BTL", "call": "./MapleLCMDist_LBD_BTL", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

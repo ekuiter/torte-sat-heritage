@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ./cadical --no-rephase --restartint=400 $1 $2/proof.out

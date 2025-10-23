@@ -1,0 +1,1 @@
+{"maple_mix": {"status": "ok", "name": "Maple_mix", "call": "./Maple_mix", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

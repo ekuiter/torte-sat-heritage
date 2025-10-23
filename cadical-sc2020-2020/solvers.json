@@ -1,0 +1,1 @@
+{"cadical-sc2020": {"status": "ok", "name": "CaDiCaL-sc2020", "call": "./cadical", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

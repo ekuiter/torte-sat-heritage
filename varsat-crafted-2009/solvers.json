@@ -1,0 +1,1 @@
+{"varsat-crafted": {"name": "VARSAT-crafted", "version": "2009-03-22", "authors": "Eric Hsu", "args": ["-seed=RANDOMSEED", "FILECNF"], "call": "./varsat-crafted_static", "gz": false, "status": "ok"}}

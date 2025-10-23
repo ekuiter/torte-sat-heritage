@@ -1,0 +1,1 @@
+{"mlcmdchronobt-dl-scavel": {"status": "ok", "name": "MLCMDChronoBT-DL-Scavel", "call": "./MLCMDCBT-DL-v2.2_Scavel", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

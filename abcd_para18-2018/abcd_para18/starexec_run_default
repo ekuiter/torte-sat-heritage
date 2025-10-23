@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./abcdsat_p18 $1
+

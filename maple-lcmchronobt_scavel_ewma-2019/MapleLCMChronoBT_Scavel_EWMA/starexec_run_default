@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./MLCMCBT_S_EWMA $1 -drup-file=$2/proof.out 

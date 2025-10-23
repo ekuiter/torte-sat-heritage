@@ -1,0 +1,1 @@
+{"glueminisat-2.2.10-81-main": {"status": "ok", "name": "glueminisat-2.2.10-81-main", "call": "./glueminisat-simp-static", "gz": true, "args": ["FILECNF", "-no-lazy-simp", "-model"], "argsproof": ["FILECNF", "-no-lazy-simp", "-vbyte", "-certified", "-certified-output=FILEPROOF"]}}

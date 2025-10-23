@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./gulch -model -certified -certified-output=$2/proof.out $1

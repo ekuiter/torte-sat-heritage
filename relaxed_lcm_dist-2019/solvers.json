@@ -1,0 +1,1 @@
+{"relaxed_lcm_dist": {"status": "ok", "name": "Relaxed_LCM_Dist", "call": "./Relaxed_LCM_Dist", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

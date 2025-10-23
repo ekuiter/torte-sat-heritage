@@ -1,0 +1,1 @@
+{"cadical-rp": {"status": "ok", "name": "cadical-rp", "call": "./cadical", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

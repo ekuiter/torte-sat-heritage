@@ -1,0 +1,1 @@
+{"minisat-static": {"status": "ok", "name": "minisat-static", "call": "./minisat-static", "gz": false, "args": ["FILECNF"]}}

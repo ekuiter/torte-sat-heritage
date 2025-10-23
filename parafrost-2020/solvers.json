@@ -1,0 +1,1 @@
+{"parafrost": {"status": "ok", "name": "ParaFROST", "call": "./parafrost", "tracks": ["main"], "gz": false, "args": ["FILECNF", "-q"], "argsproof": ["FILECNF", "--proof-file=FILEPROOF", "-q"]}}

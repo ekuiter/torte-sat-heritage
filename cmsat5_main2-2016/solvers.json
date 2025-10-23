@@ -1,0 +1,1 @@
+{"cmsat5_main2": {"tracks": ["main"], "status": "ok", "name": "cmsat5_main2", "call": "./cryptominisat4_simple", "gz": false, "args": ["FILECNF"], "argsproof": ["FILECNF", "--drat=FILEPROOF"]}}

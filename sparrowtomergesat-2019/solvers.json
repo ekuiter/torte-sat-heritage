@@ -1,0 +1,1 @@
+{"sparrowtomergesat": {"status": "ok", "name": "SparrowToMergeSAT", "call": "./Sparrow2MergeSAT.sh", "gz": true, "args": ["FILECNF", "RANDOMSEED", "/tmp", "0"], "argsproof": ["FILECNF", "RANDOMSEED", "FILEPROOF", 1]}}

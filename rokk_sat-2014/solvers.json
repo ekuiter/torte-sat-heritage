@@ -1,0 +1,1 @@
+{"rokk_sat": {"status": "ok", "args": ["FILECNF"], "authors": "Takeru Yasumoto", "call": "././rokk_sat.sh", "comments": "Launchcommand was:  ././rokk_sat.sh  <instance> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "ROKK(sat)"}}

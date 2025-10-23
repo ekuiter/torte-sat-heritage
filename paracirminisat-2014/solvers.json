@@ -1,0 +1,1 @@
+{"paracirminisat": {"tracks": ["parallel"], "status": "ok", "args": ["-thread-num=MAXNBTHREAD", "FILECNF"], "authors": "Tomohiro Sonobe, Shuya Kondoh", "call": "././paracirminisat", "comments": "Launchcommand was:  ././paracirminisat -thread-num=12  <instance> \nTrack was Parallel, Application SAT+UNSAT track", "gz": true, "name": "ParaCIRMiniSAT"}}

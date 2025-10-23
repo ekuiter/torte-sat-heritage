@@ -1,0 +1,1 @@
+{"gluesplit_clasp": {"status": "ok", "tracks": ["crafted"], "args": ["FILECNF"], "authors": "Jingchao Chen", "call": ".//glueSplit_clasp", "comments": "Launchcommand was:  .//glueSplit_clasp  <instance> \nTrack was Sequential, Hard-combinatorial SAT track", "gz": false, "name": "glueSplit_clasp"}}

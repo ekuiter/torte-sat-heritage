@@ -1,0 +1,1 @@
+{"bfs-glucose_mem_32_70": {"status": "ok", "args": ["FILECNF"], "authors": "D\u00e1vid Bart\u00f3k and Zolt\u00e1n \u00c1d\u00e1m Mann", "call": "././BFSglucose", "comments": "Launchcommand was:  ././BFSglucose  <instance> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "BFS-Glucose_mem_32_70"}}

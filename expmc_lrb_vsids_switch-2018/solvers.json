@@ -1,0 +1,1 @@
+{"expmc_lrb_vsids_switch": {"status": "ok", "name": "expMC_LRB_VSIDS_Switch", "call": "./minisat_static", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-no-drup", "-drup-file=FILEPROOF"]}}

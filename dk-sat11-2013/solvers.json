@@ -1,0 +1,1 @@
+{"dk-sat11": {"tracks": ["hard-combinatorial", "random"], "status": "ok", "args": ["FILECNF"], "authors": "Donald Knuth", "call": ".//dk-run.sh", "comments": "Launchcommand was:  .//dk-run.sh  <instance> \nTrack was Core solvers, Sequential, Hard-combinatorial SAT", "gz": false, "name": "dk-SAT11"}}

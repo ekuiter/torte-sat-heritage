@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./cryptominisat5_simple $1 --drat=$2/proof.out --otherconf=1

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./MapleLCMDist_LBD_BTL $1 -drup-file=$2/proof.out 

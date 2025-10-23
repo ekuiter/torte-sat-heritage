@@ -1,0 +1,1 @@
+{"ntusat": {"status": "ok", "args": ["FILECNF"], "authors": "Hsiao-Lun, Wang and J-H Roland, Jiang", "call": "././ntusat", "comments": "Launchcommand was:  ././ntusat  <instance> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "ntusat"}}

@@ -1,0 +1,1 @@
+{"minisat_blbd": {"status": "ok", "args": ["FILECNF"], "authors": "Jingchao Chen", "call": "././minisat_blbd", "comments": "Launchcommand was:  ././minisat_blbd  <instance> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "minisat_blbd"}}

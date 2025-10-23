@@ -1,0 +1,1 @@
+{"slstc": {"name": "slstc", "version": "1.0", "authors": "Anton Belov, Zbigniew Stachniak", "args": ["-alg", "adaptnovelty+-tc", "-runs", "1", "-cutoff", "max", "-r", "out", "null", "-r", "stats", "null", "-r", "sat2009comp", "-drestart", "100000", "-seed", "RANDOMSEED", "-inst", "FILECNF"], "call": "./slstc", "gz": false, "status": "ok"}}

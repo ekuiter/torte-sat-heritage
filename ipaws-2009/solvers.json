@@ -1,0 +1,1 @@
+{"ipaws": {"name": "iPAWS", "version": "2009-03-22", "authors": "John Thornton and Duc Nghia Pham", "args": ["FILECNF", "RANDOMSEED"], "call": "./iPAWS", "gz": false, "status": "ok"}}

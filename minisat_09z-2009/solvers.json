@@ -1,0 +1,1 @@
+{"minisat_09z": {"name": "MiniSAT_09z", "version": "2009-03-22", "authors": "Markus Iser", "args": ["FILECNF"], "call": "minisat", "gz": false, "status": "ok"}}

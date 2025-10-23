@@ -1,0 +1,1 @@
+{"sinnminisat": {"tracks": ["minisat-hack"], "status": "ok", "args": ["FILECNF"], "authors": "Takeru Yasumoto", "call": "././sinn", "comments": "Launchcommand was:  ././sinn  <instance> \nTrack was Core solvers, Sequential, MiniSAT Hack-track, Application SAT+UNSAT", "gz": true, "name": "SINNminisat"}}

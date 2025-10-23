@@ -1,0 +1,1 @@
+{"walksatlm2013": {"tracks": ["random-sat"], "status": "ok", "args": ["FILECNF", "RANDOMSEED"], "authors": "Shaowei Cai", "call": "././WalkSATlm2013", "comments": "Launchcommand was:  ././WalkSATlm2013  <instance>   <seed> \nTrack was Core solvers, Sequential, Random SAT", "gz": false, "name": "WalkSATlm2013"}}

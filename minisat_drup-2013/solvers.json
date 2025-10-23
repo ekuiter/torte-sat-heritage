@@ -1,0 +1,1 @@
+{"minisat_drup": {"tracks": ["hard-combinatorial-cert-unsat", "application-cert-unsat"], "status": "ok", "args": ["FILECNF"], "authors": "Niklas E\u00e9n and Niklas S\u00f6rensson ", "call": "././minisat", "comments": "Launchcommand was:  ././minisat  <instance> \nTrack was Core solvers, Sequential, Application certified UNSAT", "gz": true, "name": "minisat DRUP"}}

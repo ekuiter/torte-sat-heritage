@@ -1,0 +1,1 @@
+{"riss3g-cert": {"tracks": ["hard-combinatorial-cert-unsat", "application-cert-unsat"], "status": "ok", "args": ["FILECNF", "/tmp"], "authors": "Norbert Manthey", "call": "././riss3g-cert.sh", "comments": "Launchcommand was:  ././riss3g-cert.sh  <instance>   <tempdir> \nTrack was Core solvers, Sequential, Hard-combinatorial certified UNSAT", "gz": true, "name": "Riss3g"}}

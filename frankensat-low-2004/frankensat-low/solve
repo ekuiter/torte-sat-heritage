@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ "$1" == "" ]; then
+    echo need an argument..
+    exit
+fi
+
+/home/submit18/frankensat_low/fsat $1 /home/submit18/frankensat_low

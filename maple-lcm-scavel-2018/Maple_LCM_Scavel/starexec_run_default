@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./Maple_LCM_Scavel $1 -drup-file=$2/proof.out 

@@ -1,0 +1,1 @@
+{"hcad": {"status": "ok", "name": "hCaD", "call": "./cadical", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

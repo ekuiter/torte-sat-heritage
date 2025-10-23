@@ -1,0 +1,1 @@
+{"adaptg2wsat-plus": {"name": "adaptg2wsat+", "version": "2007-02-08", "authors": "Wanxia Wei, Chu-Min Li and Harry Zhang", "args": ["FILECNF"], "call": "./adaptg2wsat+", "gz": false, "status": "ok"}}

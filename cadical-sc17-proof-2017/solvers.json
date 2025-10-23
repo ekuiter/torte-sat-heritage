@@ -1,0 +1,1 @@
+{"cadical-sc17-proof": {"status": "ok", "name": "cadical-sc17-proof", "call": "./cadical", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

@@ -1,0 +1,1 @@
+{"black_hole_sat": {"name": "Black Hole SAT", "version": "2011-03-08", "authors": "Markus Iser", "tracks": ["application", "crafted", "random"], "args": ["FILECNF"], "call": "saturn", "gz": false, "status": "ok"}}

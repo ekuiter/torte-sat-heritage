@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./Relaxed_LCMDistChronoBT $1 -conflRatio=0.9 -drup-file=$2/proof.out

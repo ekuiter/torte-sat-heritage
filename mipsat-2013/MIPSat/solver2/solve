@@ -1,0 +1,3 @@
+#!/bin/bash
+
+"$(dirname "$0")"/glucose_2.0/glucose.sh "$1"

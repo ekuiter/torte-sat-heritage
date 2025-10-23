@@ -1,0 +1,1 @@
+{"maple_lcm-plus-bcrestart_m1": {"status": "ok", "name": "Maple_LCM+BCrestart_M1", "call": "./glucose_static", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

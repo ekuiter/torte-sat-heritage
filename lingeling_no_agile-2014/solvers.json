@@ -1,0 +1,1 @@
+{"lingeling_no_agile": {"status": "ok", "args": ["-v", "--no-agile", "FILECNF"], "authors": "Armin Biere", "call": "./lingeling", "comments": "Launchcommand was:  ./lingeling -v --no-agile <instance> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "Lingeling (no agile)"}}

@@ -1,0 +1,1 @@
+{"gluh_simp": {"status": "ok", "args": ["FILECNF"], "authors": "Chanseok Oh", "call": "././gluH_static", "comments": "Launchcommand was:  ./gluH_static  <instance> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "gluH_simp"}}

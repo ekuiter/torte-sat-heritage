@@ -1,0 +1,1 @@
+{"psids_maplelcmdistchronobt": {"status": "ok", "name": "PSIDS_MapleLCMDistChronoBT", "call": "./glucose_static", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

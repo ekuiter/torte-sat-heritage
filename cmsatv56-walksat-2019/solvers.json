@@ -1,0 +1,1 @@
+{"cmsatv56-walksat": {"status": "ok", "name": "cmsatv56-walksat", "call": "./cryptominisat5_simple", "gz": false, "args": ["FILECNF", "--sls=walksat", "--bva=1"], "argsproof": ["FILECNF", "--sls=walksat", "--bva=1", "--drat=FILEPROOF"]}}

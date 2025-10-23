@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ./cadical --default $1 $2/proof.out

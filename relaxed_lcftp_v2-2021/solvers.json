@@ -1,0 +1,1 @@
+{"relaxed_lcftp_v2": {"status": "ok", "name": "Relaxed_LCFTP_V2", "call": "./glucose", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

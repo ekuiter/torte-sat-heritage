@@ -1,0 +1,1 @@
+{"rokk": {"status": "ok", "args": ["FILECNF", "/tmp"], "authors": "Takeru Yasumoto", "call": "././rokk.sh", "comments": "Launchcommand was:  ././rokk.sh  <instance>   <tempdir> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "ROKK"}}

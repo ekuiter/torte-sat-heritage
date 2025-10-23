@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./topkLC-glucose $1 -model -certified -certified-output=$2/proof.out

@@ -1,0 +1,1 @@
+{"clasp": {"name": "clasp", "version": "1.2.0-SAT09-32", "authors": "Benjamin Kaufmann", "args": ["--file=FILECNF", "--dimacs", "--number=1", "--sat-p=20,25,150", "--hParam=0,512"], "call": "./clasp", "gz": false, "status": "ok"}}

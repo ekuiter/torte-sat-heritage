@@ -1,0 +1,1 @@
+{"midisat-static": {"status": "ok", "name": "midisat-static", "call": "./midisat-static", "gz": false, "args": ["FILECNF"]}}

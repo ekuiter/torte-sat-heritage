@@ -1,0 +1,1 @@
+{"eureka-b": {"status": "ok", "name": "eureka-B", "call": "./eureka-B", "gz": false, "args": ["FILECNF"]}}

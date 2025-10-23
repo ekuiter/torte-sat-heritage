@@ -1,0 +1,1 @@
+{"ofsat": {"status": "ok", "name": "ofsat", "call": "./ofsat", "gz": false, "args": ["FILECNF"]}}

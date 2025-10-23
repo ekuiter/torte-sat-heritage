@@ -1,0 +1,1 @@
+{"relaxed_lcmdcbdl": {"status": "ok", "name": "Relaxed_LCMDCBDL", "call": "./Relaxed_LCMDCBDL", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

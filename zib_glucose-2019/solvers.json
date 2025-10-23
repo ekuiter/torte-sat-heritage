@@ -1,0 +1,1 @@
+{"zib_glucose": {"status": "ok", "name": "ZIB_Glucose", "call": "./glucose_static", "gz": true, "args": ["FILECNF", "-model", "-no-certified"], "argsproof": ["FILECNF", "-model", "-certified", "-certified-output=FILEPROOF"]}}

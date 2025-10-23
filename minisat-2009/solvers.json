@@ -1,0 +1,1 @@
+{"minisat": {"name": "MiniSat", "version": "2.1 (Sat-race'08 Edition)", "authors": "Niklas Sorensson, Niklas Een", "args": ["FILECNF"], "call": "./minisat", "gz": false, "status": "ok"}}

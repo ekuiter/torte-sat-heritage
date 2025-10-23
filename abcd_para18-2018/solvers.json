@@ -1,0 +1,1 @@
+{"abcd_para18": {"status": "ok", "tracks": ["parallel"], "name": "abcd_para18", "call": "./abcdsat_p18", "gz": true, "args": ["FILECNF"]}}

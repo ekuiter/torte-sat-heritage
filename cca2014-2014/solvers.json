@@ -1,0 +1,1 @@
+{"cca2014": {"status": "ok", "tracks": ["random", "crafted-sat"], "args": ["FILECNF", "RANDOMSEED"], "authors": "Chengqian Li, Jianhong Li, Yuxiang Wu", "call": "././CCA2014", "comments": "Launchcommand was:  ././CCA2014  <instance>   <seed> \nTrack was Sequential, Hard-combinatorial SAT track", "gz": true, "name": "CCA2014"}}

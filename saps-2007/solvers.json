@@ -1,0 +1,1 @@
+{"saps": {"name": "saps", "version": "2007-02-08", "authors": "Dave A.D. Tompkins, Frank Hutter and Holger Hoos", "args": ["FILECNF", "RANDOMSEED"], "call": "./saps", "gz": false, "status": "ok"}}

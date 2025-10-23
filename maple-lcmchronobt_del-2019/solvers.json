@@ -1,0 +1,1 @@
+{"maple-lcmchronobt_del": {"status": "ok", "name": "MapleLCMChronoBT_DEL", "call": "./glucose_static", "gz": true, "args": ["FILECNF", "-no-drup"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

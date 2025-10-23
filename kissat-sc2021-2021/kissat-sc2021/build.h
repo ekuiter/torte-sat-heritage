@@ -1,0 +1,5 @@
+#define VERSION "sc2021"
+#define COMPILER "gcc (Debian 8.3.0-6) 8.3.0 -W -Wall -O3 -DNDEBUG"
+#define ID "98f4776480362089afe283c49c7f67dfb87b89dc"
+#define BUILD "Fri Aug 20 14:09:58 UTC 2021 Linux 22f69d076735 5.8.0-1039-azure x86_64"
+#define DIR "/src/kissat-sc2021-98f47764/build"

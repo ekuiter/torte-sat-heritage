@@ -1,0 +1,1 @@
+{"cms55-main-all4fixed": {"status": "ok", "name": "cms55-main-all4fixed", "call": "./cryptominisat5_simple", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "--drat=FILEPROOF"]}}

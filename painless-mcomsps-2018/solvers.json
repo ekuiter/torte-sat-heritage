@@ -1,0 +1,1 @@
+{"painless-mcomsps": {"status": "ok", "tracks": ["parallel"], "name": "painless-mcomsps", "call": "./painless-mcomsps", "gz": true, "args": ["FILECNF"]}}

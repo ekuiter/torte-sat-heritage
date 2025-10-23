@@ -1,0 +1,1 @@
+{"maple_lcm_dist": {"status": "ok", "name": "Maple_LCM_Dist", "call": "./glucose_static", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

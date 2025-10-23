@@ -1,0 +1,1 @@
+{"sat4j": {"name": "SAT4J", "version": "SAT 2007", "authors": "Daniel Le Berre", "args": ["-server", "-Xmx1600m", "-Xms1600m", "-jar", "./sat4j-sat2007.jar", "FILECNF"], "call": "java", "gz": false, "comment": "JVM PARAM CHANGED", "status": "ok"}}

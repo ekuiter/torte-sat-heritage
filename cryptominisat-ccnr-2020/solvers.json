@@ -1,0 +1,1 @@
+{"cryptominisat-ccnr": {"status": "ok", "name": "cryptominisat-ccnr", "call": "./cryptominisat5_simple", "tracks": ["main"], "gz": false, "args": ["--verb=0", "--sls=ccnr", "FILECNF"], "argsproof": ["--verb=0", "--sls=ccnr", "--drat=FILEPROOF", "FILECNF"]}}

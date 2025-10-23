@@ -1,0 +1,1 @@
+{"treengeling": {"status": "ok", "tracks": ["parallel"], "name": "treengeling-sc18-starexec", "call": "./treengeling", "gz": true, "args": ["FILECNF"]}}

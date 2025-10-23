@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./riss6 $1 -proof=$2/proof.out -proofFormat= 

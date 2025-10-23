@@ -1,0 +1,1 @@
+{"shatterglucose": {"status": "ok", "args": ["FILECNF", "/tmp"], "authors": "Jo Devriendt, Bart Bogaerts", "call": "./runShatterGlucose.sh", "comments": "Launchcommand was:  ././runShatterGlucose.sh  <instance>   <tempdir> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "ShatterGlucose"}}

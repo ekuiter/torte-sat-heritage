@@ -1,0 +1,1 @@
+{"csccsat2014": {"status": "ok", "tracks": ["random"], "args": ["FILECNF", "RANDOMSEED"], "authors": "Chuan Luo, Shaowei Cai, Wei Wu, Kaile Su", "call": "././CSCCSat2014", "comments": "Launchcommand was:  ././CSCCSat2014  <instance>   <seed> \nTrack was Sequential, Random SAT track", "gz": true, "name": "CSCCSat2014"}}

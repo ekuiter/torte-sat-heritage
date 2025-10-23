@@ -1,0 +1,1 @@
+{"gnovelty-plus-t": {"name": "gNovelty+-T", "version": "2009-03-22", "authors": "Duc-Nghia Pham, Charles Gretton", "args": ["FILECNF", "RANDOMSEED", "MAXNBTHREAD"], "call": "./gnovelty+", "gz": false, "status": "ok"}}

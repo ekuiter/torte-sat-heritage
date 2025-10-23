@@ -1,0 +1,1 @@
+{"csat-bis": {"status": "ok", "name": "csat", "call": "./csat", "gz": false, "args": ["FILECNF"]}}

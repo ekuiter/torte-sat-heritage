@@ -1,0 +1,1 @@
+{"maple_mbdr_bjl7_local": {"status": "ok", "name": "Maple_MBDR_BJL7_Local", "call": "./glucose", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

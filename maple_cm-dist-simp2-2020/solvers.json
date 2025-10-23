@@ -1,0 +1,1 @@
+{"maple_cm-dist-simp2": {"status": "ok", "name": "Maple_CM+dist+simp2--", "call": "./glucose_static", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

@@ -1,0 +1,1 @@
+{"beansandeggs": {"status": "ok", "name": "BeansAndEggs", "call": "./glucose", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-vbyte", "-certified", "-certified-output=FILEPROOF"]}}

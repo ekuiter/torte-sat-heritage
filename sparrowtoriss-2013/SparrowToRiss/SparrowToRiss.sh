@@ -1,0 +1,142 @@
+#!/bin/bash
+# cp3.sh, Norbert Manthey, 2013
+#
+# solve CNF formula $1 by simplifying first with coprocessor, then run a SAT solver, and finally, reconstruct the model
+#
+
+#
+# usage
+#
+if [ "x$1" = "x" ]; then
+  echo "USAGE: cp3.sh <input CNF> <seed> [arguments for cp3]"
+  exit 1
+fi
+
+#
+# variables for the script
+#
+
+file=$1											# first argument is CNF instance to be solved
+shift												# reduce the parameters, removed the very first one. remaining $@ parameters are arguments
+seed=$1 #seed
+shift
+
+# binary of the used SAT solver
+satsolver=sparrow2013						# name of the binary (if not in this directory, give relative path as well)
+
+# default parameters for preprocessor
+cp3params="-enabled_cp3 -cp3_stats -up -subsimp -bve -no-bve_gates -no-bve_strength -bve_red_lits=1 -cp3_bve_heap=1 -bve_heap_updates=1 -bve_totalG -bve_cgrow_t=1000 -bve_cgrow=10"	
+
+# some temporary files 
+undo=cp3_undo_$$				# path to temporary file that stores cp3 undo information
+tmpCNF=cp3_tmpCNF_$$		# path to temporary file that stores cp3 simplified formula
+model=cp3_model_$$			# path to temporary file that model of the preprocessor (stdout)
+realModel=model_$$			# path to temporary file that model of the SAT solver (stdout)
+ageFile=age_$$          # file that stores variables by age (with polarity, oldest on top)
+actFile=act_$$          # file that stores variables by activity
+echo "c undo: $undo tmpCNF: $tmpCNF model: $model realModel: $realModel"
+
+# init time variables
+ppStart=0
+ppEnd=0
+solveStart=0
+solveEnd=0
+rissEnd=0
+rissStart=0
+
+winningSolver=""
+
+#
+# run coprocessor with parameters added to this script
+# and output to stdout of the preprocessor is redirected to stderr
+#
+ppStart=`date +%s`
+./cp3 $file $realModel -enabled_cp3 -cp3_undo=$undo -dimacs=$tmpCNF $cp3params $@  1>&2
+exitCode=$?
+ppEnd=`date +%s`
+echo "c preprocessed $(( $ppEnd - $ppStart)) seconds" 1>&2
+echo "c preprocessed $(( $ppEnd - $ppStart)) seconds with exit code $exitCode" 1>&2
+
+# solved by preprocessing
+if [ "$exitCode" -eq "10" -o "$exitCode" -eq "20" ]
+then 
+	echo "c solved by initial preprocessor call CP3"  1>&2
+	winningSolver="cp3"
+else
+	echo "c not solved by preprocessor -- do search"  1>&2
+	if [ "$exitCode" -eq "0" ]
+	then
+		#
+		# exit code == 0 -> could not solve the instance
+		# dimacs file will be printed always
+		# exit code could be 10 or 20, depending on whether coprocessor could solve the instance already
+		#
+	
+		#
+		# run your favorite solver (output is expected to look like in the SAT competition, s line and v line(s) )
+		# and output to stdout of the sat solver is redirected to stderr
+		#
+		solveStart=`date +%s`
+		./$satsolver -a --maxflips 500000000 --actfile $actFile --agefile $ageFile --runs 1 $tmpCNF $seed > $model
+		exitCode=$?
+		solveEnd=`date +%s`
+		echo "c sparrow used $(( $solveEnd - $solveStart )) seconds with exit code $exitCode" 1>&2
+	
+		#
+		# undo the model
+		# coprocessor can also handle "s UNSATISFIABLE"
+		#
+		if [ "$exitCode" -eq "10" ]
+		then
+			winningSolver="sparrow" # sparrow cannot give 20
+			echo "c solved by sparrow" 1>&2
+			echo "c post-process with cp3" 1>&2
+			./cp3 -cp3_post -cp3_undo=$undo -cp3_model=$model > $realModel
+		fi
+	fi
+fi
+
+#
+#
+# if neither CP3 nor sparrow could solve the instance, use riss3g!
+#
+#
+if [ "$exitCode" -ne "10" -a "$exitCode" -ne "20" ]
+then 
+	echo "c use riss3g" 1>&2
+	# lets use riss3g for everything that could not be solved within the limits
+	rissStart=`date +%s`
+	#
+	# uses both age and act information
+	#
+	./riss3g $file $realModel -polFile=$ageFile -enabled_cp3 -cp3_stats -up -subsimp -bve -bve_red_lits=1 -no-bve_BCElim -dense -cp3_bve_heap=0 -bve_heap_updates=1 -bve_totalG -bve_cgrow_t=0 -bve_cgrow=2
+	exitCode=$?
+	rissEnd=`date +%s`
+	echo "c riss3g used $(( $rissEnd - $rissStart)) seconds with exit code $exitCode" 1>&2
+	if [ "$exitCode" -eq "10" -o "$exitCode" -eq "20" ]
+	then 
+		winningSolver="riss3g" 
+	fi
+fi
+
+
+#
+# print times
+#
+echo "c pp-time: $(( $ppEnd - $ppStart)) SLS-time: $(( $solveEnd - $solveStart ))  CDCL-time: $(( $rissEnd - $rissStart))" 1>&2
+echo "c solved with: $winningSolver" 1>&2
+
+#
+# print solution
+#
+cat $realModel
+
+#
+# remove tmp files
+#
+rm -f $undo $undo.map $tmpCNF $model $realModel $ageFile $actFile
+
+#
+# return with correct exit code
+#
+exit $exitCode

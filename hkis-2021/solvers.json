@@ -1,0 +1,1 @@
+{"hkis": {"status": "ok", "name": "hKiS", "call": "./kissat", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

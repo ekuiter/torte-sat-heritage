@@ -1,0 +1,1 @@
+{"satelite_lambda_all": {"status": "ok", "name": "SatELite_lambda_all", "call": "./SatELite_lambda_all", "gz": false, "args": ["FILECNF"]}}

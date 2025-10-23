@@ -1,0 +1,10 @@
+#!/bin/sh
+
+cd "$(dirname "$0")"
+ROOT=$PWD
+
+# sattime
+rm -rf $ROOT/sattimefold
+tar xzvf $ROOT/sattimefold.tar.gz
+cd $ROOT/sattimefold
+make

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./Maple_simp $1 -drup-file=$2/proof.out 

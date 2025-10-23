@@ -1,0 +1,1 @@
+{"glucose_421_del": {"status": "ok", "name": "glucose_421_del", "call": "./glucose_del", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-vbyte", "-certified", "-certified-output=FILEPROOF"]}}

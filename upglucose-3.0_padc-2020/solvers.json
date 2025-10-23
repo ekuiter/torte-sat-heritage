@@ -1,0 +1,1 @@
+{"upglucose-3.0_padc": {"status": "ok", "name": "upGlucose-3.0_PADC", "call": "./glucose_static", "tracks": ["main"], "gz": false, "args": ["-model", "-nbIncRedDB=10", "FILECNF"], "argsproof": ["FILECNF", "-model", "-nbIncRedDB=10", "-certified", "-certified-output=FILEPROOF"]}}

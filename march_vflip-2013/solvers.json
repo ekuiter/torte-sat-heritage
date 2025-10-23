@@ -1,0 +1,1 @@
+{"march_vflip": {"tracks": ["random"], "status": "ok", "args": ["FILECNF"], "authors": "Jingchao Chen", "call": "././march_vflip", "comments": "Launchcommand was:  ././march_vflip  <instance> \nTrack was Core solvers, Sequential, Random SAT", "gz": false, "name": "march_vflip"}}

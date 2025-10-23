@@ -1,0 +1,1 @@
+{"ccanr_glucose": {"status": "ok", "args": ["FILECNF", "RANDOMSEED", "1000"], "authors": "Shaowei Cai, Chuan Luo, Kaile Su", "call": "././CCAnr+glucose.sh", "comments": "Launchcommand was:  ././CCAnr+glucose.sh  <instance>   <seed>  1000\nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "CCAnr+glucose"}}

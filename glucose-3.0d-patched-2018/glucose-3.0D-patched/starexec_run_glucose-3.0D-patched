@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./glucose_static -model -vbyte -certified -certified-output=$2/proof.out $1

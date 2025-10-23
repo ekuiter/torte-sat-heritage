@@ -1,0 +1,16 @@
+#!/bin/tcsh -f
+
+
+set sat2 = `expr $SATTIMEOUT / 2 + 30`
+
+echo c setting limit cputime of both processes to $sat2
+set toto = "$sat2"
+
+limit cputime $toto
+
+if ( "$1" == "" ) then
+    echo need an argument..
+    exit
+endif
+cd /tmp
+/solvers/frankensat-high/fsat $1 /solvers/frankensat-high

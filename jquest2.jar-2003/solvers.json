@@ -1,0 +1,1 @@
+{"jquest2.jar": {"status": "ok", "name": "jquest2.jar", "call": "java", "gz": false, "args": ["-Xmx1600m", "-Xms1600m", "-jar", "./jquest2.jar", "FILECNF"]}}

@@ -1,0 +1,5 @@
+#define VERSION "PriPro"
+#define IDENTIFIER "fcb9e7210dda645c28b6ee178fb502a3520c6036"
+#define COMPILER "g++ (Debian 8.3.0-6) 8.3.0"
+#define FLAGS "-Wall -Wextra -O3 -DNDEBUG"
+#define DATE "Thu Aug 19 16:45:39 UTC 2021 Linux f7141b2fe99d 5.8.0-1039-azure x86_64"

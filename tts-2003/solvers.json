@@ -1,0 +1,1 @@
+{"tts": {"status": "ok", "name": "tts", "call": "./tts", "gz": false, "args": ["FILECNF"]}}

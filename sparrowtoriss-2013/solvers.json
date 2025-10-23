@@ -1,0 +1,1 @@
+{"sparrowtoriss": {"tracks": ["hard-combinatorial"], "status": "ok", "args": ["FILECNF", "RANDOMSEED"], "authors": "Adrian Balint, Norbert Manthey", "call": "././SparrowToRiss.sh", "comments": "Launchcommand was:  ././SparrowToRiss.sh  <instance>  <seed>\nTrack was Core solvers, Sequential, Hard-combinatorial SAT", "gz": true, "name": "SparrowToRiss"}}

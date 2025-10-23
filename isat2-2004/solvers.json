@@ -1,0 +1,1 @@
+{"isat2": {"status": "ok", "name": "ISAT2", "call": "./ISAT2", "gz": false, "args": ["FILECNF", "RANDOMSEED"]}}

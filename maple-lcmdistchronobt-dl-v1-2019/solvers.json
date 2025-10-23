@@ -1,0 +1,1 @@
+{"maple-lcmdistchronobt-dl-v1": {"status": "ok", "name": "MapleLCMDistChronoBT-DL-v1", "call": "./MapleLCMDistChrBt-DL-v1", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

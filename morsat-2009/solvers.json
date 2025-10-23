@@ -1,0 +1,1 @@
+{"morsat": {"name": "MoRsat", "version": "2009-03-03", "authors": "Jingchao Chen", "args": ["FILECNF"], "call": "./moRsat", "gz": false, "status": "ok"}}

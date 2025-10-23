@@ -1,0 +1,1 @@
+{"minipure": {"status": "ok", "args": ["FILECNF", "-freq_pure=3"], "authors": "Hsiao-Lun Wang", "call": "././minipure", "comments": "Launchcommand was:  ././minipure  <instance>  -freq_pure=3\nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "minipure"}}

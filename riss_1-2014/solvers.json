@@ -1,0 +1,1 @@
+{"riss_1": {"status": "ok", "args": ["FILECNF", "/tmp"], "authors": "Enrique Matos Alfonso and Norbert Manthey", "call": "././blackbox.sh", "comments": "Launchcommand was:  ././blackbox.sh  <instance>   <tempdir> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "Riss"}}

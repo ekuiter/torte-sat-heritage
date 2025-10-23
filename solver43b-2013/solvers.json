@@ -1,0 +1,1 @@
+{"solver43b": {"status": "ok", "args": ["FILECNF"], "authors": "Valeriy Balabanov", "call": "././Solver43_static", "comments": "Launchcommand was:  ././Solver43_static  <instance> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "Solver43b"}}

@@ -1,0 +1,1 @@
+{"maple_simp21": {"status": "ok", "name": "maple_simp21", "call": "./glucose", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

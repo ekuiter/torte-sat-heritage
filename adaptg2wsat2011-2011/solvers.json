@@ -1,0 +1,1 @@
+{"adaptg2wsat2011": {"name": "adaptg2wsat2011", "version": "2011-03-02", "authors": "Chumin LI, Yu Li, Wanxia Wei", "tracks": ["application", "crafted", "random"], "args": ["FILECNF", "RANDOMSEED"], "call": "adaptg2wsat2011", "gz": false, "status": "ok"}}

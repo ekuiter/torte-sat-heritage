@@ -1,0 +1,1 @@
+{"maple-lcm-dist-alluip-trail": {"status": "ok", "name": "Maple-LCM-Dist-alluip-trail", "call": "./glucose_static", "tracks": ["main"], "gz": true, "args": ["-i-uip", "-i-mini", "FILECNF"], "argsproof": ["FILECNF", "-i-uip", "-i-mini", "-drup-file=FILEPROOF"]}}

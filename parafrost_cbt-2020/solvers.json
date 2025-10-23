@@ -1,0 +1,1 @@
+{"parafrost_cbt": {"status": "ok", "name": "ParaFROST_CBT", "call": "./parafrost", "tracks": ["main"], "gz": false, "args": ["FILECNF", "-q", "-cbt"], "argsproof": ["FILECNF", "--proof-file=FILEPROOF", "-q", "-cbt"]}}

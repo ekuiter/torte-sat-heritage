@@ -1,0 +1,1 @@
+{"doug_hains": {"tracks": ["hard-combinatorial-sat"], "status": "ok", "args": ["FILECNF"], "authors": "Doug Hains, Darrell Whitley, Adele Howe", "call": "././hyperplane_minisat.sh", "comments": "Launchcommand was:  ././hyperplane_minisat.sh  <instance> \nTrack was Core solvers, Sequential, Application SAT", "gz": true, "name": "Doug Hains"}}

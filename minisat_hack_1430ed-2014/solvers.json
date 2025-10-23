@@ -1,0 +1,1 @@
+{"minisat_hack_1430ed": {"tracks": ["application", "crafted"], "status": "ok", "args": ["FILECNF"], "argsproof": ["FILECNF", "--DRUP"], "authors": "Chanseok Oh", "call": "././wrapper.sh", "comments": "Launchcommand was:  ././wrapper.sh  <instance> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "MiniSat_HACK_1430ED"}}

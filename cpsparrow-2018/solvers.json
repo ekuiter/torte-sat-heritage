@@ -1,0 +1,1 @@
+{"cpsparrow": {"status": "ok", "tracks": ["random"], "name": "CPSparrow", "call": "./CPSparrow.sh", "gz": true, "args": ["FILECNF", "RANDOMSEED", "/tmp"]}}

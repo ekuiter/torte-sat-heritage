@@ -1,0 +1,1 @@
+{"csat": {"name": "CSat", "version": "2009-03-22", "authors": "Guanfeng Lv, Qian Wang, Kaile Su", "args": ["FILECNF"], "call": "./csat", "gz": false, "status": "ok"}}

@@ -1,0 +1,45 @@
+#!/bin/bash
+
+# originally SatELiteGTI
+
+if [ "x$1" = "x" ]; then
+  echo "USAGE: Barcelogic <input CNF>"
+  exit 1
+fi
+
+if [ -L $0 ]; then
+  XDIR=`ls -l --color=no $0 | sed "s%.*-> \(.*\)/.*$%\1%"`
+else
+  XDIR=`echo $0 | sed "s%\(.*\)/.*$%\1%"`
+fi
+
+TMP=/tmp/GTI_${HOSTNAME}_$$
+SE=$XDIR/SatELite_release
+BS=$XDIR/bsat
+if [ x"$1" = "xdebug" ]; then SE=$XDIR/SatELite; shift;fi   
+INPUT=$1; shift
+
+$SE "$@" $INPUT $TMP.cnf $TMP.vmap $TMP.elim
+X=$?
+if [ $X == 0 ]; then
+#  echo $BS $TMP.cnf
+  $BS $TMP.cnf > $TMP.result
+  X=$?
+  if [ $X == 20 ]; then
+    echo "s UNSATISFIABLE"
+    rm -f $TMP.cnf $TMP.vmap $TMP.elim $TMP.result
+    exit 20
+  elif [ $X != 10 ]; then
+    rm -f $TMP.cnf $TMP.vmap $TMP.elim $TMP.result
+    exit $X
+  fi  
+
+  $SE +ext $INPUT $TMP.result $TMP.vmap $TMP.elim
+  X=$?
+elif [[ ($X != 10) && ($X != 20) ]]; then
+  $BS $INPUT
+  X=$?
+fi
+    
+rm -f $TMP.cnf $TMP.vmap $TMP.elim $TMP.result
+exit $X

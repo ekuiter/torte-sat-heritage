@@ -1,0 +1,1 @@
+{"ccgscore": {"status": "ok", "tracks": ["random"], "args": ["FILECNF"], "authors": "Shaowei Cai, Chuan Luo, Kaile Su", "call": "././CCgscore", "comments": "Launchcommand was:  ././CCgscore  <instance> \nTrack was Sequential, Random SAT track", "gz": true, "name": "CCgscore"}}

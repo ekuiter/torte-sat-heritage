@@ -1,0 +1,1 @@
+{"cmsatv56-yalsat-chronobt": {"status": "ok", "name": "cmsatv56-yalsat-chronobt", "call": "./cryptominisat5_simple", "gz": false, "args": ["FILECNF", "--sls=yalsat", "--bva=1"], "argsproof": ["FILECNF", "--sls=yalsat", "--bva=1", "--drat=FILEPROOF"]}}

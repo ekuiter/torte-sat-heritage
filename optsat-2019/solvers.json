@@ -1,0 +1,1 @@
+{"optsat": {"status": "ok", "name": "optsat", "call": "./optsat", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-certified", "-certified-output=FILEPROOF"]}}

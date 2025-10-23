@@ -1,0 +1,1 @@
+{"yalsat": {"status": "ok", "name": "YalSAT", "call": "./yalsat", "gz": true, "args": ["FILECNF", "-v"]}}

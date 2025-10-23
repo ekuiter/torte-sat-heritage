@@ -1,0 +1,13 @@
+#!/bin/sh
+
+cd "$(dirname "$0")"
+ROOT=$PWD
+
+# clasp
+rm -rf $ROOT/clasp-2.1.1
+tar xzvf $ROOT/clasp-2.1.1-source.tar.gz
+cd $ROOT/clasp-2.1.1
+./configure.sh
+cd build/release
+make
+cp bin/clasp $ROOT/clasp-2.1.1/clasp

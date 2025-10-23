@@ -1,0 +1,1 @@
+{"glucose-3.0-plus-width": {"status": "ok", "name": "glucose-3.0+width", "call": "./glucose_static", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-certified", "-certified-output=FILEPROOF"]}}

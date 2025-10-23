@@ -1,0 +1,5 @@
+#define VERSION "sc2020"
+#define COMPILER "gcc (Debian 8.3.0-6) 8.3.0 -W -Wall -O3 -DNEMBEDDED -DNDEBUG -DNMETRICS -DNSTATISTICS"
+#define ID "039805f203ac24f204fd6ae0b3d6bae54332ee1e"
+#define BUILD "Fri Aug 20 14:04:47 UTC 2021 Linux d6568a20a8fd 5.8.0-1039-azure x86_64"
+#define DIR "/src/kissat-sat_crvr_gb/build"

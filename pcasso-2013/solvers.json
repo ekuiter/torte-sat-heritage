@@ -1,0 +1,1 @@
+{"pcasso": {"tracks": ["parallel"], "status": "ok", "args": ["FILECNF", "/tmp"], "authors": "Ahmed Irfan, Davide Lanti, Norbert Manthey", "call": "././cp3.sh", "comments": "Launchcommand was:  ././cp3.sh  <instance>   <tempdir> \nTrack was Core Solvers, Parallel, Application SAT+UNSAT", "gz": true, "name": "pcasso"}}

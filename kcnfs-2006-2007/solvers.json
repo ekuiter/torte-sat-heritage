@@ -1,0 +1,1 @@
+{"kcnfs-2006": {"name": "KCNFS", "version": "2006", "authors": "Gilles Dequen and Olivier Dubois", "args": ["FILECNF"], "call": "./kcnfs-2006", "gz": false, "status": "ok"}}

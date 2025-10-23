@@ -1,0 +1,1 @@
+{"sat7": {"name": "SAT7", "version": "2007-02-08", "authors": "Christian Kern, Mohammad Khaleghi, Stefan Kugele, Christian Schallhart, Michael Tautschnig and Andreas Weis", "args": ["FILECNF"], "call": "./sat7_bin", "gz": false, "status": "ok"}}

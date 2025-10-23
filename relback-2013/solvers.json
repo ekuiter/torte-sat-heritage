@@ -1,0 +1,1 @@
+{"relback": {"tracks": ["application", "hard-combinatorial"], "status": "ok", "args": ["FILECNF", "-tmp", "/tmp"], "authors": "Djamal Habet and Chu Min Li", "call": "././relback.sh", "comments": "Launchcommand was:  ././relback.sh  <instance>  -tmp <tempdir> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "relback"}}

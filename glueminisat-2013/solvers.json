@@ -1,0 +1,1 @@
+{"glueminisat": {"status": "ok", "args": ["-compe", "FILECNF"], "authors": "Hidetomo Nabeshima, Koji Iwanuma, Katsumi Inoue", "call": "././glueminisat-simp", "comments": "Launchcommand was:  ./glueminisat-simp -compe <instance> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "glueminisat"}}

@@ -1,0 +1,2 @@
+../glucose-3_TS0/simp/glucose -cla-decay=0.9999 -model $1
+

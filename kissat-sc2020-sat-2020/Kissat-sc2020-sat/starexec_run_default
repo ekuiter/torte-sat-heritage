@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ./kissat --sat $1 $2/proof.out

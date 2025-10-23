@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#./glucose_static -model $1
+
+./CCAnrSim -inst $1

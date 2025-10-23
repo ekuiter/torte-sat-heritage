@@ -1,0 +1,1 @@
+{"hordesat": {"status": "ok", "tracks": ["parallel"], "name": "hordesat", "call": "./hordesat", "gz": true, "args": ["FILECNF"]}}

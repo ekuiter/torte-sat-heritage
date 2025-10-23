@@ -1,0 +1,63 @@
+#!/bin/bash
+
+echo "c FRANKENSAT: version 0.1 (C) Team March / Licensed under the GPL, version 2"
+
+# some maintenance 
+
+if [ "$1" == "" ]; then
+	echo "c FRANKENSAT: error: d'oh! please specify input file"
+	exit 1
+fi
+
+if [ "$2" == "" ]; then
+	dir="."
+else
+	dir=$2
+fi
+
+$dir/clear
+
+# start secondary solvers
+
+echo "c FRANKENSAT: starting secondary solver #1: zchaff"
+
+$dir/zchaff $1&  
+pid1=$! # remember process-id
+
+# start main solver
+
+echo "c FRANKENSAT: starting main solver"
+echo "c FRANKENSAT: throwing the switch.... yes, it's alive!!!!!!!!!!!! 'mmmmghr!!!!'"
+$dir/vicii $1 
+
+code=$? # save return code
+
+# clean up secondary solvers
+
+kill $pid1 >& /dev/null
+wait $pid1 >& /dev/null
+
+# output total running time
+
+times > msaoet; 
+line=`tail -n1 msaoet | cut -d's' -f1`
+
+min=`echo $line | cut -d'm' -f1`
+sec=`echo $line | cut -d'm' -f2`
+sec1=`echo $sec | cut -d'.' -f1`
+sec2=`echo $sec | cut -d'.' -f2`
+
+sum=`expr $min \* 60 + $sec1`.$sec2
+echo c FRANKENSAT: total time=$sum
+
+cat zsol msol | tail -n 1
+
+grep -v time results.py > results
+echo time=$sum >> results 
+mv results results.py
+
+# output return code
+
+echo c FRANKENSAT: return code=$code
+exit $code
+

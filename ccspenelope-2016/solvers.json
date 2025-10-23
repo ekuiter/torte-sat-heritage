@@ -1,0 +1,1 @@
+{"ccspenelope": {"tracks": ["parallel"], "status": "ok", "name": "ccspenelope2016", "call": "./solver.sh", "gz": true, "args": ["FILECNF"]}}

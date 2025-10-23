@@ -1,0 +1,1 @@
+{"maple-lcm-distchronobt": {"status": "ok", "name": "MapleLCMDistChronoBT", "call": "./glucose_static", "gz": true, "args": ["FILECNF", "-no-drup"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

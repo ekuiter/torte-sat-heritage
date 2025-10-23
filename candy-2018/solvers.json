@@ -1,0 +1,1 @@
+{"candy": {"status": "ok", "name": "Candy", "call": "./candy", "gz": true, "args": ["FILECNF", "-inprocessing=0", "-model"], "argsproof": ["FILECNF", "-inprocessing=0", "-certified", "-certified-output=FILEPROOF"]}}

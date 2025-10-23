@@ -1,0 +1,1 @@
+{"satake": {"name": "satake", "version": "2009-03-22", "authors": "Kota Tsuyuzaki", "args": ["FILECNF", "MAXNBTHREAD", "TIMEOUT"], "call": "./satake", "gz": false, "status": "ok"}}

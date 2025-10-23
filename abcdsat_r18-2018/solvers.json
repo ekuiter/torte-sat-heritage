@@ -1,0 +1,1 @@
+{"abcdsat_r18": {"status": "ok", "tracks": ["main"], "name": "abcdsat_r18", "call": "./abcdsat_r18", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-certified", "-certified-output=FILEPROOF"]}}

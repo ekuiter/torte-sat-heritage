@@ -1,0 +1,1 @@
+{"ttsth-5-0": {"name": "ttsth-5-0", "version": "2009-03-19", "authors": "Ivor Spence", "args": ["-num-threads", "MAXNBTHREAD", "FILECNF"], "call": "./tts-5-0", "gz": false, "status": "ok"}}

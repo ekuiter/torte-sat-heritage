@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./optsat $1 -certified -certified-output=$2/proof.out

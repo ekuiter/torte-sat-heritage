@@ -1,0 +1,1 @@
+{"nanosat": {"status": "ok", "name": "nanosat", "call": "./nanosat", "gz": false, "args": ["FILECNF"]}}

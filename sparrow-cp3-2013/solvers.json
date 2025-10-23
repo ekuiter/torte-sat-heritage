@@ -1,0 +1,1 @@
+{"sparrow-cp3": {"tracks": ["hard-combinatorial-sat"], "status": "ok", "args": ["FILECNF", "RANDOMSEED"], "authors": "Adrian Balint, Norbert Manthey", "call": "././Sparrow+CP3.sh", "comments": "Launchcommand was:  ././Sparrow+CP3.sh  <instance>  <seed>\nTrack was Core solvers, Sequential, Hard-combinatorial SAT", "gz": true, "name": "Sparrow+CP3"}}

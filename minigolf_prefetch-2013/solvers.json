@@ -1,0 +1,1 @@
+{"minigolf_prefetch": {"tracks": ["minisat-hack"], "status": "ok", "args": ["-p", "FILECNF"], "authors": "Norbert Manthey", "call": "././minigolf", "comments": "Launchcommand was:  ././minigolf -p <instance> \nTrack was Core solvers, Sequential, MiniSAT Hack-track, Application SAT+UNSAT", "gz": true, "name": "MiniGolf"}}

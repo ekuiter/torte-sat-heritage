@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./Relaxed_LCM_Dist $1 -drup-file=$2/proof.out 

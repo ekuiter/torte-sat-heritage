@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ./lingeling -v $1 -t $2/proof.out

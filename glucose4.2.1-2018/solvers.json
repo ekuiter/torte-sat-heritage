@@ -1,0 +1,1 @@
+{"glucose4.2.1": {"status": "ok", "name": "glucose4.2.1", "call": "./glucose", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-vbyte", "-certified", "-certified-output=FILEPROOF"]}}

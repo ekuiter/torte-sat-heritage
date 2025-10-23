@@ -1,0 +1,1 @@
+{"probsat": {"status": "ok", "tracks": ["random"], "name": "probSAT", "call": "./probSAT", "gz": false, "args": ["-a", "FILECNF"]}}

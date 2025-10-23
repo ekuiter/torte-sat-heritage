@@ -1,0 +1,1 @@
+{"cadical-pripro_no_bin": {"status": "ok", "name": "cadical-PriPro_no_bin", "call": "./cadical", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

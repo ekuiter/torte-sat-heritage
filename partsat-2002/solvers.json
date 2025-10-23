@@ -1,0 +1,1 @@
+{"partsat": {"status": "ok", "name": "partsat", "call": "./partsat", "gz": false, "args": ["FILECNF"]}}

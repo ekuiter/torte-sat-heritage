@@ -1,0 +1,1 @@
+{"mapleglucose": {"status": "ok", "name": "MapleGlucose", "call": "./glucose_static", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-vbyte", "-certified", "-certified-output=FILEPROOF"]}}

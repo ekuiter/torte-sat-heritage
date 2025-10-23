@@ -1,0 +1,1 @@
+{"glucose_nbsat": {"status": "ok", "name": "Glucose_nbSat", "call": "./GlucoseNBSAT", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-vbyte", "-certified", "-certified-output=FILEPROOF"]}}

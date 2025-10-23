@@ -1,0 +1,1 @@
+{"ghackcomsps_drup": {"status": "ok", "name": "GHackCOMSPS_DRUP", "call": "./GHackCOMSPS", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-vbyte", "-certified", "-certified-output=FILEPROOF"]}}

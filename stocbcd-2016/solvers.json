@@ -1,0 +1,1 @@
+{"stocbcd": {"tracks": ["random"], "status": "ok", "name": "stocBCD", "call": "./stocbcd", "gz": true, "args": ["FILECNF"]}}

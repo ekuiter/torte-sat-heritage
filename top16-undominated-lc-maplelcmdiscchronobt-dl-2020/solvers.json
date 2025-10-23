@@ -1,0 +1,1 @@
+{"top16-undominated-lc-maplelcmdiscchronobt-dl": {"status": "ok", "name": "Top16-Undominated-LC-MapleLCMDiscChronoBT-DL", "call": "./MapleLCMDistChrBt-DL-v3-Top16LC", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

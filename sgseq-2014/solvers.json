@@ -1,0 +1,1 @@
+{"sgseq": {"status": "ok", "args": ["FILECNF", "-s", "RANDOMSEED"], "authors": "Chu Min Li,Hua Jiang,Ru Chu Xu", "call": ".//SGSeq.sh", "comments": "Launchcommand was:  .//SGSeq.sh  <instance>  -s <seed> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "SGSeq"}}

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+D=/solvers/walksatauto
+#D=~kautz/Research2004/Autowalksat/Src
+
+
+#$D/autosat -solcnf -numsol 1 -cutoff 2000000000 < $1 | sed '/^[^v]/s/^/c /' | sed 's/^c ASSIGNMENT FOUND/s SATISFIABLE/'
+$D/autosat -seed $2 -solcnf -numsol 1 -cutoff 2000000000 < $1 | sed '/^[^v]/s/^/c /
+s/^c ASSIGNMENT FOUND/s SATISFIABLE/
+s/^$/c /'
+echo 'v 0'

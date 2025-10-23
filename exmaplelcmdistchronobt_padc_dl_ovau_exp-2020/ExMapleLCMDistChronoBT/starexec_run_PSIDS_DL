@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./glucose_static $1 -verb=0 -no-use-padc -use-psids -use-dl -no-use-ovau -drup-file=$2/proof.out

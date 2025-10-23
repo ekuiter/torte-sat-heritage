@@ -1,0 +1,1 @@
+{"padc_maple_lcm_dist": {"status": "ok", "name": "PADC_Maple_LCM_Dist", "call": "./glucose_static", "gz": true, "args": ["FILECNF", "-nbIncRedDB=10", "-clearType=0"], "argsproof": ["FILECNF", "-nbIncRedDB=10", "-clearType=0", "-drup-file=FILEPROOF"]}}

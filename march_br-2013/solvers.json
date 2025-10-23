@@ -1,0 +1,1 @@
+{"march_br": {"tracks": ["hard-combinatorial", "random"], "status": "ok", "args": ["FILECNF"], "authors": "Marijn Heule", "call": "././march_br", "comments": "Launchcommand was:  ././march_br  <instance> \nTrack was Core solvers, Sequential, Hard-combinatorial SAT", "gz": false, "name": "march_br"}}

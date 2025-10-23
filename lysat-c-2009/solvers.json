@@ -1,0 +1,1 @@
+{"lysat-c": {"name": "LySAT", "version": "c/2009-03-20", "authors": "Youssef Hamadi, Sa\u00efd Jabbour, Lakhdar Sa\u00efs", "args": ["FILECNF", "c"], "call": "minisat_static", "gz": false, "status": "ok"}}

@@ -1,0 +1,1 @@
+{"cominisatps_pulsar_drup": {"status": "ok", "name": "COMiniSatPS_Pulsar_drup", "call": "./minisat_static", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

@@ -1,0 +1,1 @@
+{"pmcsat": {"tracks": ["parallel"], "status": "ok", "args": ["FILECNF"], "authors": "Ricardo Marques, Lu\u00eds Guerra e Silva, Paulo Flores and Lu\u00eds Miguel Silveira", "call": "././pmcsat_static", "comments": "Launchcommand was:  ././pmcsat_static  <instance> \nTrack was Core Solvers, Parallel, Application SAT+UNSAT", "gz": true, "name": "pmcSAT"}}

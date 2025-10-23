@@ -1,0 +1,1 @@
+{"sat4j-core": {"name": "sat4j-core", "version": "2.1 RC1", "authors": "Daniel Le Berre", "args": ["-server", "-Xms1600m", "-Xmx1600m", "-jar", "./org.sat4j.core.jar", "FILECNF"], "call": "java", "gz": false, "status": "ok"}}

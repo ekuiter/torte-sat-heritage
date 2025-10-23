@@ -1,0 +1,1 @@
+{"cadical": {"status": "ok", "name": "CaDiCaL", "call": "./cadical", "gz": true, "args": ["--default", "FILECNF"], "argsproof": ["--default", "FILECNF", "FILEPROOF"]}}

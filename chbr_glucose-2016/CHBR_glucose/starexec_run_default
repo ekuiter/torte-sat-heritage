@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./CHBR_glucose $1 -model -certified -verb=0 -vbyte -certified-output=$2/proof.out

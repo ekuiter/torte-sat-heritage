@@ -1,0 +1,1 @@
+{"picosat": {"name": "picosat", "version": "535", "authors": "Armin Biere", "args": ["FILECNF"], "call": "./picosat", "gz": false, "status": "ok"}}

@@ -1,0 +1,1 @@
+{"maple-lcmchronobt_ldcr": {"status": "ok", "name": "MapleLCMChronoBT_ldcr", "call": "./glucose_static", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

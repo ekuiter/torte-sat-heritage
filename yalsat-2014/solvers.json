@@ -1,0 +1,1 @@
+{"yalsat": {"status": "ok", "tracks": ["random", "crafted-sat"], "args": ["-v", "FILECNF", "RANDOMSEED"], "authors": "Armin Biere", "call": "./yalsat", "comments": "Launchcommand was:  ./yalsat -v <instance>   <seed> \nTrack was Sequential, Application SAT track", "gz": true, "name": "YalSAT"}}

@@ -1,0 +1,1 @@
+{"sattime2014r": {"status": "ok", "args": ["FILECNF", "-seed", "RANDOMSEED"], "authors": "Chu-Min LI & Chong Huang & Yu Li", "call": "./sattime2014r", "comments": "Launchcommand was:  ./sattime2014r  <instance>  -seed <seed> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "sattime2014r"}}

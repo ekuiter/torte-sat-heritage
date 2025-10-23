@@ -1,0 +1,1 @@
+{"optsat_r21": {"status": "ok", "name": "optsat_R21", "call": "./glucose", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-certified", "-certified-output=FILEPROOF"]}}

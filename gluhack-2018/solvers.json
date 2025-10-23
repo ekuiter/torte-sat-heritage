@@ -1,0 +1,1 @@
+{"gluhack": {"status": "ok", "name": "gluHack", "call": "./gluHack", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-certified", "-certified-output=FILEPROOF"]}}

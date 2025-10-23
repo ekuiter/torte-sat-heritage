@@ -1,0 +1,1 @@
+{"clasp_vflip": {"tracks": ["hard-combinatorial"], "status": "ok", "args": ["FILECNF"], "authors": "Jingchao Chen", "call": "./clasp_vflip", "comments": "Launchcommand was:  ./clasp_vflip  <instance> \nTrack was Core solvers, Sequential, Hard-combinatorial SAT+UNSAT", "gz": false, "name": "clasp_vflip"}}

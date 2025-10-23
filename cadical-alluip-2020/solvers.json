@@ -1,0 +1,1 @@
+{"cadical-alluip": {"status": "ok", "name": "cadical-alluip", "call": "./cadical", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

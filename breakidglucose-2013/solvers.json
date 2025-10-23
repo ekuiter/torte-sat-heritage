@@ -1,0 +1,1 @@
+{"breakidglucose": {"status": "ok", "args": ["FILECNF", "/tmp"], "authors": "Jo Devriendt, Bart Bogaerts", "call": "././runBreakIDGlucose.sh", "comments": "Launchcommand was:  ././runBreakIDGlucose.sh  <instance>   <tempdir> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "BreakIDGlucose"}}

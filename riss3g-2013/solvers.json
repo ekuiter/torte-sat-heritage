@@ -1,0 +1,1 @@
+{"riss3g": {"status": "ok", "args": ["FILECNF"], "authors": "Norbert Manthey", "call": "././riss3g.sh", "comments": "Launchcommand was:  ././riss3g.sh  <instance> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "Riss3g"}}

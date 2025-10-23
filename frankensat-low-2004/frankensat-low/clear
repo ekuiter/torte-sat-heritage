@@ -1,0 +1,19 @@
+#!/bin/bash
+
+killall zchaff >& /dev/null
+rm msol zsol secondary.state secondary.cnf cnfpart.cnf equivalence.cnf >& /dev/null
+
+queue1=`ipcs -q | grep 0x0000211e | cut -d' ' -f2`
+
+if [ "$queue1" != "" ]; then
+	ipcrm -q $queue1 > /dev/null
+	ipcrm msg $queue1 > /dev/null
+fi
+
+queue2=`ipcs -q | grep 0x0000211f | cut -d' ' -f2`
+
+if [ "$queue2" != "" ]; then
+	ipcrm -q $queue2 > /dev/null
+	ipcrm msg $queue2 > /dev/null
+fi
+

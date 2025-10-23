@@ -1,0 +1,1 @@
+{"maple-lcm-scavel": {"status": "ok", "name": "Maple_LCM_Scavel", "call": "./Maple_LCM_Scavel", "gz": true, "args": ["FILECNF", "-no-drup"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

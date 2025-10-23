@@ -1,0 +1,1 @@
+{"glue_alt": {"status": "ok", "name": "glue_alt", "call": "./glue_alt", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-certified", "-certified-output=FILEPROOF"]}}

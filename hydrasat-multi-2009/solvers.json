@@ -1,0 +1,1 @@
+{"hydrasat-multi": {"name": "HydraSAT-Multi", "version": "2009-03-22-Multi", "authors": "Christoph Baldow, Friedrich Gr\u00e4ter, Steffen H\u00f6lldobler, Norbert Manthey, Max Seelemann, Peter Steinke, Christoph Wernhard, Konrad Winkler, Erik Zenker", "args": [".", "FILECNF", "MEMLIMIT", "RANDOMSEED"], "call": "./hydrasat-multi.sh", "gz": false, "status": "ok"}}

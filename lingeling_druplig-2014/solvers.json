@@ -1,0 +1,1 @@
+{"lingeling_druplig": {"status": "ok", "args": ["-v", "--druplig", "FILECNF"], "authors": "Armin Biere", "call": "./lingeling", "comments": "Launchcommand was:  ./lingeling -v --druplig <instance> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "Lingeling (druplig)"}}

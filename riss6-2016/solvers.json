@@ -1,0 +1,1 @@
+{"riss6": {"tracks": ["main"], "status": "ok", "name": "Riss6", "call": "./riss6", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-proof=FILEPROOF", "-proofFormat"]}}

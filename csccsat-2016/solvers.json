@@ -1,0 +1,1 @@
+{"csccsat": {"tracks": ["random"], "status": "ok", "name": "CSCCSat", "call": "./CSCCSat", "gz": true, "args": ["FILECNF", "1"]}}

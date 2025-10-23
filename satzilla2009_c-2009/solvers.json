@@ -1,0 +1,1 @@
+{"satzilla2009_c": {"name": "SATzilla2009_C", "version": "2009-03-22", "authors": "Lin Xu, Frank Hutter, Holger H. Hoos and Kevin Leyton-Brown", "args": ["FILECNF"], "call": "./SATzilla2009_C", "gz": false, "status": "ok"}}

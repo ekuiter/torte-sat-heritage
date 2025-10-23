@@ -1,0 +1,1 @@
+{"ccanr": {"tracks": ["hard-combinatorial-sat"], "status": "ok", "args": ["FILECNF", "RANDOMSEED"], "authors": "Shaowei Cai, Kaile Su", "call": "././CCAnr", "comments": "Launchcommand was:  ././CCAnr  <instance>   <seed> \nTrack was Core solvers, Sequential, Hard-combinatorial SAT", "gz": false, "name": "CCAnr"}}

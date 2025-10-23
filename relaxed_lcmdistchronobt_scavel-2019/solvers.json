@@ -1,0 +1,1 @@
+{"relaxed_lcmdistchronobt_scavel": {"status": "ok", "name": "Relaxed_LCMDistChronoBT_Scavel", "call": "./Relaxed_LCMDistChronoBT_Scavel", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

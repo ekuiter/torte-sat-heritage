@@ -1,0 +1,1 @@
+{"scavel_sat": {"status": "ok", "name": "Scavel_SAT", "call": "./Scavel_SAT", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-vbyte", "FILEPROOF"]}}

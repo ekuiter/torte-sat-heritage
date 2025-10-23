@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./abcdsat_r18 $1 -certified -certified-output=$2/proof.out

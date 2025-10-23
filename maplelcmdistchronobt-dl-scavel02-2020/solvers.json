@@ -1,0 +1,1 @@
+{"maplelcmdistchronobt-dl-scavel02": {"status": "ok", "name": "MapleLCMDistChronoBT-DL-Scavel02", "call": "./MapleLCMDistChrBt-DL-v2.2", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

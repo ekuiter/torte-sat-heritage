@@ -1,0 +1,1 @@
+{"gluh": {"status": "ok", "args": ["FILECNF", "/tmp"], "authors": "Chanseok Oh", "call": "././gluH.sh", "comments": "Launchcommand was:  ./gluH.sh  <instance>   <tempdir> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "gluH"}}

@@ -1,0 +1,1 @@
+{"kissat-sat_crvr_gb": {"status": "ok", "name": "kissat-sat_crvr_gb", "call": "./kissat", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

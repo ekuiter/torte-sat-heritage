@@ -1,0 +1,1 @@
+{"maple_cm_onlinedel_19b": {"status": "ok", "name": "Maple_CM_OnlineDel_19b", "call": "./glucose_static", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

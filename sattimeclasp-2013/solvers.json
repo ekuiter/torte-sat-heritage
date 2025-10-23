@@ -1,0 +1,1 @@
+{"sattimeclasp": {"tracks": ["hard-combinatorial", "random"], "status": "ok", "args": ["FILECNF", "-s", "RANDOMSEED", "2500"], "authors": "Jiang hua, chumin li, Xu Ruchu", "call": "././SCSeq.sh", "comments": "Launchcommand was:  ././SCSeq.sh  <instance>  -s <seed>  2500\nTrack was Core solvers, Sequential, Hard-combinatorial SAT+UNSAT", "gz": false, "name": "sattimeClasp"}}

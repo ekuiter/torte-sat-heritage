@@ -1,0 +1,1 @@
+{"minisat-sat_2007": {"name": "minisat", "version": "SAT 2007", "authors": "Niklas Sorensson and Niklas Een", "args": ["FILECNF"], "call": "./minisat_static", "gz": false, "status": "ok"}}

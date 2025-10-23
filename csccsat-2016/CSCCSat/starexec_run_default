@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./CSCCSat $1 1

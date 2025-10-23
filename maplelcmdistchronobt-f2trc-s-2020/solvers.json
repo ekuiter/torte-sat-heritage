@@ -1,0 +1,1 @@
+{"maplelcmdistchronobt-f2trc-s": {"status": "ok", "name": "MapleLCMDistChronoBT-f2trc-s", "call": "./MLDCBT-f2trc-s", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

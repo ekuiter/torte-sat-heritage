@@ -1,0 +1,1 @@
+{"glue_bit": {"status": "ok", "args": ["FILECNF", "/tmp"], "authors": "Jingchao Chen", "call": "././glue_bit.sh", "comments": "Launchcommand was:  ././glue_bit.sh  <instance>   <tempdir> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "glue_bit"}}

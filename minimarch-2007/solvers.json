@@ -1,0 +1,1 @@
+{"minimarch": {"name": "minimarch", "version": "2007-04-26 (fixed)", "authors": "Siert Wieringa, Hans van Maaren and Marijn Heule", "args": ["FILECNF"], "call": "./minimarch", "gz": false, "comment": "fixed version over 2007-02-08", "status": "ok"}}

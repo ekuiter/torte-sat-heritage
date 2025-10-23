@@ -1,0 +1,1 @@
+{"balancedz": {"status": "ok", "tracks": ["random", "crafted-sat"], "args": ["FILECNF", "-seed", "RANDOMSEED"], "authors": "Chong HUANG, Chumin LI, Ruchu XU", "call": "././BalancedZ", "comments": "Launchcommand was:  ././BalancedZ  <instance>  -seed <seed> \nTrack was Sequential, Hard-combinatorial SAT track", "gz": true, "name": "BalancedZ"}}

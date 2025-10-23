@@ -1,0 +1,1 @@
+{"blindsat": {"status": "ok", "name": "blindsat", "call": "./blindsat", "gz": false, "args": ["FILECNF"]}}

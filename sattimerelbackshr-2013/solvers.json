@@ -1,0 +1,1 @@
+{"sattimerelbackshr": {"status": "ok", "args": ["FILECNF", "-s", "RANDOMSEED"], "authors": "Jiang hua, chumin li, Djamal Habet", "call": "././sattimeRelbackShr", "comments": "Launchcommand was:  ././sattimeRelbackShr  <instance>  -s <seed> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "sattimeRelbackShr"}}

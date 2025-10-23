@@ -1,0 +1,1 @@
+{"varsat-random": {"name": "VARSAT-random", "version": "2009-03-22", "authors": "Eric Hsu", "args": ["-seed=RANDOMSEED", "FILECNF"], "call": "./varsat-random_static", "gz": false, "status": "ok"}}

@@ -1,0 +1,1 @@
+{"cbpenelope": {"tracks": ["parallel"], "status": "ok", "args": ["-config=./configuration.ini", "FILECNF"], "authors": "Tomohiro Sonobe, Shuya Kondoh", "call": "././cb_penelope", "comments": "Launchcommand was:  ././cb_penelope -config=./configuration.ini  <instance> \nTrack was Parallel, Application SAT+UNSAT track", "gz": false, "name": "CBPeneLoPe"}}

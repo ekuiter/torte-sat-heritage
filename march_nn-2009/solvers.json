@@ -1,0 +1,1 @@
+{"march_nn": {"name": "march_nn", "version": "nn", "authors": "Marijn Heule", "args": ["FILECNF"], "call": "./march_nn", "gz": false, "status": "ok"}}

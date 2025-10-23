@@ -1,0 +1,1 @@
+{"cadical-less-up": {"status": "ok", "name": "cadical-less-UP", "call": "./cadical", "tracks": ["main"], "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "FILEPROOF"]}}

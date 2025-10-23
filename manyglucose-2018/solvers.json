@@ -1,0 +1,1 @@
+{"manyglucose": {"status": "ok", "tracks": ["parallel"], "name": "manyglucose-4.1-2-satcomp2018", "call": "./manyglucose-4.1-2_release", "gz": true, "args": ["-maxmemory=50000", "-model", "FILECNF", "nthreads=MAXNBTHREADS"]}}

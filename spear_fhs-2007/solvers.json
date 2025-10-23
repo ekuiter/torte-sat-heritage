@@ -1,0 +1,1 @@
+{"spear_fhs": {"name": "Spear FHS", "version": "1.0", "authors": "Domagoj Babic", "args": ["--model-stdout", "--time", "--spset-autotuned-fh_1_1", "--dimacs", "FILECNF"], "call": "./Spear-32", "gz": false, "status": "ok"}}

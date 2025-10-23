@@ -1,0 +1,1 @@
+{"maple-lcmchronobt_scavel_ewma": {"status": "ok", "name": "MapleLCMChronoBT_Scavel_EWMA", "call": "./MLCMCBT_S_EWMA", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

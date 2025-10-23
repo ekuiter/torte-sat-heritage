@@ -1,0 +1,2 @@
+#!/bin/sh
+./varisat -p $2/proof.out $1

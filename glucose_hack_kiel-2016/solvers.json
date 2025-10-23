@@ -1,0 +1,1 @@
+{"glucose_hack_kiel": {"status": "ok", "call": "./glucose", "name": "glucose_hack_kiel_newScript", "gz": true, "args": ["FILECNF", "-cla-decay=0.9999", "-model"], "argsproof": ["FILECNF", "-cla-decay=0.9999", "-certified", "-certified-output=FILEPROOF", "-model"]}}

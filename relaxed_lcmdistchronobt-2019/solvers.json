@@ -1,0 +1,1 @@
+{"relaxed_lcmdistchronobt": {"status": "ok", "name": "Relaxed_LCMDistChronoBT", "call": "./Relaxed_LCMDistChronoBT", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

@@ -1,0 +1,1 @@
+{"forl": {"tracks": ["application", "hard-combinatorial"], "status": "ok", "args": ["--verb", "0", "FILECNF"], "authors": "Mate Soos", "call": "./forl-nodrup", "comments": "Launchcommand was:  ./forl-nodrup --verb 0  <instance> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "forl"}}

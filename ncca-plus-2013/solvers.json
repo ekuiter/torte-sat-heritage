@@ -1,0 +1,1 @@
+{"ncca-plus": {"tracks": ["random"], "status": "ok", "args": ["FILECNF", "-s", "RANDOMSEED"], "authors": "Djamal Habet and Donia Toumi and Andr\u00e9 Abram\u00e9", "call": "././Ncca+", "comments": "Launchcommand was:  ././Ncca+  <instance>  -s <seed> \nTrack was Core solvers, Sequential, Random SAT", "gz": true, "name": "Ncca+"}}

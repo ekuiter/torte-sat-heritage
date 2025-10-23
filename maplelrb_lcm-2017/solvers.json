@@ -1,0 +1,1 @@
+{"maplelrb_lcm": {"status": "ok", "name": "MapleLRB_LCM", "call": "./glucose_static", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

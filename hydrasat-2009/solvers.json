@@ -1,0 +1,1 @@
+{"hydrasat": {"name": "HydraSAT", "version": "2009-03-22-Base", "authors": "Christoph Baldow, Friedrich Gr\u00e4ter, Steffen H\u00f6lldobler, Norbert Manthey, Max Seelemann, Peter Steinke, Christoph Wernhard, Konrad Winkler, Erik Zenker", "args": ["FILECNF", "-rs", "RANDOMSEED", "-co", "memory_limit", "MEMLIMIT"], "call": "./hydrasat", "gz": false, "status": "ok"}}

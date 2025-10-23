@@ -1,0 +1,1 @@
+{"kcnfs-smp": {"name": "KCNFS", "version": "SMP", "authors": "Gilles Dequen and Olivier Dubois", "args": ["FILECNF"], "call": "./kcnfs-smp", "gz": false, "status": "ok"}}

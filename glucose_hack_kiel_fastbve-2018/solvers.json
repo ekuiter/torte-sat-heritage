@@ -1,0 +1,1 @@
+{"glucose_hack_kiel_fastbve": {"status": "ok", "name": "Glucose_Hack_Kiel_fastBVE", "call": "./glucose", "gz": true, "args": ["FILECNF", "-model"], "argsproof": ["FILECNF", "-certified", "-certified-output=FILEPROOF"]}}

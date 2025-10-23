@@ -1,0 +1,1 @@
+{"lingeling_aqw": {"tracks": ["application", "hard-combinatorial"], "status": "ok", "args": ["FILECNF"], "authors": "Armin Biere", "call": "./lingeling", "comments": "Launchcommand was:  ./lingeling  <instance> \nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "Lingeling"}}

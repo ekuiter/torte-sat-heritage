@@ -1,0 +1,1 @@
+{"glucored": {"status": "ok", "args": ["FILECNF", "-rnd-seed=RANDOMSEED"], "authors": "Siert Wieringa", "call": "./glucored-simp_release", "comments": "Launchcommand was:  ././glucored-simp_release  <instance>  -rnd-seed= <seed>  -verb=0\nTrack was Core solvers, Sequential, Application SAT+UNSAT", "gz": true, "name": "GlucoRed"}}

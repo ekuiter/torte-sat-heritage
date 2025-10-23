@@ -1,0 +1,2 @@
+#!/bin/bash
+./cryptominisat5_simple --sls=yalsat --bva=0 --verb=0 --drat=$2/proof.out $1

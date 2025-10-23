@@ -1,0 +1,1 @@
+{"sat4j.jar": {"status": "ok", "name": "sat4j.jar", "call": "java", "gz": false, "args": ["-Xms5g", "-Xmx5g", "-jar", "./sat4j.jar", "FILECNF"]}}

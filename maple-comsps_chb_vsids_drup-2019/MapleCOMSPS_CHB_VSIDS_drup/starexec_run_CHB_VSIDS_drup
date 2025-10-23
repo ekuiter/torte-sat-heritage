@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./MapleCOMSPS_CHB_VSIDS -drup-file=$2/proof.out $1

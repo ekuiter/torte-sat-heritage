@@ -1,0 +1,1 @@
+{"exmaplelcmdistchronobt_psids_dl": {"status": "ok", "name": "ExMapleLCMDistChronoBT", "call": "./glucose_static", "tracks": ["main"], "gz": true, "args": ["FILECNF", "-verb=0", "-no-use-padc", "-use-psids", "-use-dl", "-no-use-ovau"], "argsproof": ["FILECNF", "-verb=0", "-no-use-padc", "-use-psids", "-use-dl", "-no-use-ovau", "-drup-file=FILEPROOF"]}}

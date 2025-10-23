@@ -1,0 +1,1 @@
+{"maple_lcm_m1": {"status": "ok", "tracks": ["main"], "name": "Maple_LCM_M1", "call": "./glucose_static", "gz": true, "args": ["FILECNF"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

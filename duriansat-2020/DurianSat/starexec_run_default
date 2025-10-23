@@ -1,0 +1,2 @@
+#!/bin/bash
+./duriansat $1 -drup-file=$2/proof.out

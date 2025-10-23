@@ -1,0 +1,1 @@
+{"maple-cm": {"status": "ok", "name": "Maple_CM", "call": "./glucose_static", "gz": true, "args": ["FILECNF", "-no-drup"], "argsproof": ["FILECNF", "-drup-file=FILEPROOF"]}}

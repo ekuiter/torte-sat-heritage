@@ -1,0 +1,1 @@
+{"swdia5by": {"status": "ok", "args": ["FILECNF"], "authors": "Chanseok Oh", "call": "./SWDiA5BY_static", "comments": "Launchcommand was:  ./SWDiA5BY_static  <instance> \nTrack was Sequential, Application SAT+UNSAT track", "gz": true, "name": "SWDiA5BY"}}

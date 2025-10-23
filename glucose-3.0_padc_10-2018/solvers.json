@@ -1,0 +1,1 @@
+{"glucose-3.0_padc_10": {"status": "ok", "name": "glucose-3.0_PADC_10", "call": "./glucose-3.0_PADC_static", "gz": true, "args": ["FILECNF", "-nbIncRedDB=10", "-model"], "argsproof": ["FILECNF", "-nbIncRedDB=10", "-certified", "-certified-output=FILEPROOF"]}}

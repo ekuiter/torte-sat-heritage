@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./tc_glucose $1 -model -certified -verb=0 -certified-output=$2/proof.out
+

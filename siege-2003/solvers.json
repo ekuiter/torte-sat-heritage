@@ -1,0 +1,1 @@
+{"siege": {"status": "ok", "name": "siege", "call": "./siege", "gz": false, "args": ["FILECNF"]}}

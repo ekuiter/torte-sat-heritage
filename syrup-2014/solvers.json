@@ -1,0 +1,1 @@
+{"syrup": {"tracks": ["parallel"], "status": "ok", "args": ["FILECNF"], "authors": "Gilles Audemard and Laurent Simon", "call": "./syrup", "comments": "Launchcommand was:  ./syrup  <instance> \nTrack was Parallel, Application SAT+UNSAT track", "gz": true, "name": "glucose-syrup"}}

@@ -1,0 +1,1 @@
+{"lingeling": {"status": "ok", "name": "Lingeling", "call": "./lingeling", "gz": true, "args": ["FILECNF", "-v"], "argsproof": ["FILECNF", "-v", "-t", "FILEPROOF"]}}
