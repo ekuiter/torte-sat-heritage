@@ -15,7 +15,7 @@ It also requires [jq](https://jqlang.org/) to be installed.
 
 Beware that not all solvers have been tested, so some solvers may require additional dependencies or tweaks.
 
-Generally, this repository is intended to be used from within torte, which provides full Docker automation for running solvers.
+Generally, this repository is intended to be used from within [torte](https://github.com/ekuiter/torte), which provides full Docker automation for running solvers.
 
 ## How to Update
 
